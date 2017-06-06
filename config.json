@@ -1,12 +1,12 @@
 {
-  "color": "#2979ff",
-  "title": "Web Starter Kit",
-  "site_url": "http://www.starter.com.br",
+  "color": "#336dff",
+  "title": "PlayTV",
+  "site_url": "http://www.pltv.com.br",
   "share_image_url": "assets/images/social.png",
-  "description": "A front-end template that helps you build fast.",
+  "description": "A melhor lista de canais sempre atualizadas.",
   "open_graph_type": "website",
   "twitter_card_type": "summary_large_image",
   "google_analytics": "UA-XXXXX-Y",
-  "generator": "A front-end template that helps you build fast.",
+  "generator": "A melhor lista de canais sempre atualizadas.",
   "author": "Abraham Carvalho"
 }

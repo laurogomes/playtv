@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "name": "Web Starter Kit",
+  "name": "PlayTV",
   "launch_path": "/index.html",
-  "description": "A front-end template that helps you build fast.",
+  "description": "A melhor lista de canais sempre atualizadas.",
   "icons": {
     "16": "assets/images/touch/favicon-16x16.png",
     "32": "assets/images/touch/favicon-32x32.png",
@@ -33,8 +33,8 @@
   "permissions": {},
   "locales": {
     "en": {
-      "name": "Web Starter Kit",
-      "description": "A front-end template that helps you build fast."
+      "name": "PlayTV",
+      "description": "A melhor lista de canais sempre atualizadas."
     }
   }
 }
