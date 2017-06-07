@@ -1,7 +1,5 @@
 $(function(){
-  var $channels = $('.channels__list').isotope({
-    itemSelector: '.channels__item'
-  });
+  var $channels = $('.channels__list').isotope({itemSelector: '.channels__item'});
 
   $('.header__menu-list').on('click', '.header__menu-item', function(event) {
     event.preventDefault();

@@ -1,10 +1,12 @@
 header.header
   .container
     .header__content
-      img.header__logo(src="assets/images/logo.svg", alt=title, title=title)
+      svg.header__logo
+        use(xlink:href="assets/images/icons.svg#logo")
       .header__link
         span http://bit.ly/playtv
-        img.header__link-icon(src="assets/images/icons/link.svg", alt="link")
+        svg.header__link-icon
+          use(xlink:href="assets/images/icons.svg#icon-link")
 
     nav.header__menu
       ul.header__menu-list

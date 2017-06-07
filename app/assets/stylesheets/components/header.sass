@@ -6,42 +6,36 @@ body
     .footer,
       background-color: $color-menu-01
     .header__link
-      fill: $color-menu-01
       color: $color-menu-01
   &.documentarios
     .header,
     .footer,
       background-color: $color-menu-02
     .header__link
-      fill: $color-menu-02
       color: $color-menu-02
   &.esportes
     .header,
     .footer,
       background-color: $color-menu-03
     .header__link
-      fill: $color-menu-03
       color: $color-menu-03
   &.filmes-e-series
     .header,
     .footer,
       background-color: $color-menu-04
     .header__link
-      fill: $color-menu-04
       color: $color-menu-04
   &.infantil
     .header,
     .footer,
       background-color: $color-menu-05
     .header__link
-      fill: $color-menu-05
       color: $color-menu-05
   &.musicas
     .header,
     .footer,
       background-color: $color-menu-06
     .header__link
-      fill: $color-menu-06
       color: $color-menu-06
 
 .header
@@ -52,7 +46,7 @@ body
   position: fixed
   background-color: $color-primary
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.18)
-  +transition(400ms)
+  +transition(300ms)
 
   &.fixed
     transform: translateY(-120px)
@@ -69,7 +63,10 @@ body
     justify-content: center
 
   &__logo
-    max-width: 222px
+    color: $white
+    width: 222px
+    height: 53px
+    display: block
 
   &__link
     top: 0
@@ -88,17 +85,19 @@ body
     position: absolute
     color: $color-primary
     background-color: $white
+    +transition(300ms)
 
     +bp(lg)
       display: block
 
     span
-      margin-right: 12px
+      margin-right: 10px
       display: inline-block
       vertical-align: bottom
 
     &-icon
       width: 20px
+      height: 20px
       display: inline-block
       vertical-align: bottom
 
