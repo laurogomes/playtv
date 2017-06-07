@@ -1,0 +1,58 @@
+.remodal-overlay
+  background-color: transparentize($color-overlay, 0.1)
+  &.remodal-is-opening, &.remodal-is-closing
+    animation-duration: 0.3s
+    animation-fill-mode: forwards
+  &.remodal-is-opening
+    animation-name: remodal-overlay-opening-keyframes
+  &.remodal-is-closing
+    animation-name: remodal-overlay-closing-keyframes
+
+.remodal,
+.remodal-wrapper:after
+  vertical-align: middle
+
+.remodal
+  &.remodal-is-opening, &.remodal-is-closing
+    animation-duration: 0.3s
+    animation-fill-mode: forwards
+  &.remodal-is-opening
+    animation-name: remodal-opening-keyframes
+  &.remodal-is-closing
+    animation-name: remodal-closing-keyframes
+  vertical-align: middle
+
+.modal
+  width: 100%
+  padding: 35px
+  position: relative
+  background-color: $white
+  transform: translate3d(0,0,0)
+
+  +bp(lg)
+    max-width: 990px
+
+  +bp(xl)
+    max-width: 1200px
+
+  &__close
+    top: 0
+    right: 0
+    z-index: 10
+    padding: 7px
+    cursor: pointer
+    position: absolute
+    color: $color-primary
+
+    &-icon
+      width: 20px
+      height: 20px
+      display: block
+
+  &__content
+    width: 100%
+    +fluid-video
+    position: relative
+
+  &__player
+    position: relative
