@@ -23,12 +23,21 @@
     margin-bottom: 15px
     background-color: $black
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
-    +transition(300ms)
+
+    &.jornalismo
+      background-color: $color-menu-01
+    &.documentarios
+      background-color: $color-menu-02
+    &.esportes
+      background-color: $color-menu-03
+    &.filmes-e-series
+      background-color: $color-menu-04
+    &.infantil
+      background-color: $color-menu-05
+    &.musicas
+      background-color: $color-menu-06
 
     +bp(lg)
-      &:hover
-        transform: scale(1.1)
-
       &:hover &-image img
         opacity: 0.5
 
@@ -51,12 +60,13 @@
       overflow: hidden
       position: relative
       background-color: $white
-      +transition(300ms)
 
       img
-        +center
+        top: 50%
+        left: 50%
         position: relative
         +transition(300ms)
+        transform: translate(-50%, -50%) scale(1.01)
 
     &-description
       width: 100%

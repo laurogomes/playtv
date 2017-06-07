@@ -1,10 +1,56 @@
+body
+  padding-top: 180px
+
+  &.jornalismo
+    .header,
+    .footer,
+      background-color: $color-menu-01
+    .header__link
+      fill: $color-menu-01
+      color: $color-menu-01
+  &.documentarios
+    .header,
+    .footer,
+      background-color: $color-menu-02
+    .header__link
+      fill: $color-menu-02
+      color: $color-menu-02
+  &.esportes
+    .header,
+    .footer,
+      background-color: $color-menu-03
+    .header__link
+      fill: $color-menu-03
+      color: $color-menu-03
+  &.filmes-e-series
+    .header,
+    .footer,
+      background-color: $color-menu-04
+    .header__link
+      fill: $color-menu-04
+      color: $color-menu-04
+  &.infantil
+    .header,
+    .footer,
+      background-color: $color-menu-05
+    .header__link
+      fill: $color-menu-05
+      color: $color-menu-05
+  &.musicas
+    .header,
+    .footer,
+      background-color: $color-menu-06
+    .header__link
+      fill: $color-menu-06
+      color: $color-menu-06
+
 .header
   top: 0
   left: 0
   width: 100%
   z-index: 10
   position: fixed
-  background-color: $color-default
+  background-color: $color-primary
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.18)
   +transition(400ms)
 
@@ -40,7 +86,7 @@
     font-style: italic
     border-radius: 5px
     position: absolute
-    color: $color-default
+    color: $color-primary
     background-color: $white
 
     +bp(lg)
