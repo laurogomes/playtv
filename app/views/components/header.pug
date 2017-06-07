@@ -1,1 +1,24 @@
-header
+header.header
+  .container
+    .header__content
+      img.header__logo(src="assets/images/logo.svg", alt=title, title=title)
+      .header__link
+        span http://bit.ly/playtv
+        img.header__link-icon(src="assets/images/icons/link.svg", alt="link")
+
+    nav.header__menu
+      ul.header__menu-list
+        li
+          a.header__menu-item.active(href="#", data-filter="*") Todos
+        li
+          a.header__menu-item(href="#", data-filter=".jornalismo") Jornalismo
+        li
+          a.header__menu-item(href="#", data-filter=".documentarios") Documentários
+        li
+          a.header__menu-item(href="#", data-filter=".esportes") Esportes
+        li
+          a.header__menu-item(href="#", data-filter=".filmes-e-series") Filmes & Séries
+        li
+          a.header__menu-item(href="#", data-filter=".infantil") Infantil
+        li
+          a.header__menu-item(href="#", data-filter=".musicas") Músicas

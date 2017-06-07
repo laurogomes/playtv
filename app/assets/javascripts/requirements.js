@@ -9,7 +9,7 @@
 //#=include wow/dist/wow.js
 //#=include velocity/velocity.js
 //#=include velocity/velocity.ui.js
-//#=include isotope/dist/isotope.pkgd.js
+//=include isotope/dist/isotope.pkgd.js
 //#=include masonry/dist/masonry.pkgd.js
 //#=include packery/dist/packery.pkgd.js
 //#=include photoswipe/dist/photoswipe.js

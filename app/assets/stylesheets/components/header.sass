@@ -1,0 +1,103 @@
+.header
+  top: 0
+  left: 0
+  width: 100%
+  z-index: 10
+  position: fixed
+  background-color: $color-default
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.18)
+  +transition(400ms)
+
+  &.fixed
+    transform: translateY(-120px)
+
+  .container
+    position: relative
+
+  &__content
+    width: 100%
+    height: 120px
+    display: flex
+    position: relative
+    align-items: center
+    justify-content: center
+
+  &__logo
+    max-width: 222px
+
+  &__link
+    top: 0
+    right: 15px
+    bottom: 0
+    margin: auto
+    height: 35px
+    display: none
+    font-size: 20px
+    overflow: hidden
+    line-height: 24px
+    padding: 5px 10px
+    font-weight: bold
+    font-style: italic
+    border-radius: 5px
+    position: absolute
+    color: $color-default
+    background-color: $white
+
+    +bp(lg)
+      display: block
+
+    span
+      margin-right: 12px
+      display: inline-block
+      vertical-align: bottom
+
+    &-icon
+      width: 20px
+      display: inline-block
+      vertical-align: bottom
+
+  &__menu
+    position: relative
+
+    &-list
+      width: 100%
+      display: flex
+      overflow-x: auto
+      text-align: center
+      position: relative
+      align-items: center
+
+      +bp(lg)
+        justify-content: center
+
+      li + li
+        margin-left: 30px
+
+    &-item
+      color: $white
+      display: block
+      font-size: 18px
+      padding: 20px 5px
+      position: relative
+      white-space: nowrap
+      text-transform: uppercase
+
+      +bp(lg)
+        &:hover:before
+          width: 100%
+
+      &.active:before
+        width: 100%
+
+      &:before
+        content: ""
+        left: 0
+        right: 0
+        bottom: 0
+        z-index: 1
+        width: 0
+        height: 4px
+        margin: auto
+        position: absolute
+        background-color: $white
+        +transition(300ms)

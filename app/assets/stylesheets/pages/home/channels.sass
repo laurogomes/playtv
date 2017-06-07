@@ -1,0 +1,73 @@
+.channels
+  padding: 50px 0
+  overflow: hidden
+  position: relative
+
+  &__list
+    +wrap
+    width: 100%
+    text-align: center
+    position: relative
+    justify-content: space-around
+
+    +bp(md)
+      justify-content: center
+
+  &__item
+    width: 100%
+    padding: 8px
+    display: block
+    cursor: pointer
+    overflow: hidden
+    position: relative
+    margin-bottom: 15px
+    background-color: $black
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    +transition(300ms)
+
+    +bp(lg)
+      &:hover
+        transform: scale(1.1)
+
+      &:hover &-image img
+        opacity: 0.5
+
+    +bp(sm)
+      +col(5.6)
+      margin: 1.6%
+
+    +bp(md)
+      +col(3.6)
+
+    +bp(lg)
+      +col(2.6)
+
+    +bp(xl)
+      +col(2)
+
+    &-image
+      width: 100%
+      height: 200px
+      overflow: hidden
+      position: relative
+      background-color: $white
+      +transition(300ms)
+
+      img
+        +center
+        position: relative
+        +transition(300ms)
+
+    &-description
+      width: 100%
+      height: 100px
+      color: $white
+      display: flex
+      font-size: 22px
+      overflow: hidden
+      font-weight: bold
+      position: relative
+      text-align: center
+      align-items: center
+      justify-content: center
+      text-transform: uppercase

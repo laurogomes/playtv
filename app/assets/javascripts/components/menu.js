@@ -1,3 +1,0 @@
-$(function(){
-  // I'm Ready
-});

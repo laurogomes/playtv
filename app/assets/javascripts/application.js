@@ -1,1 +1,2 @@
-//=include components/menu.js
+//=include components/header.js
+//=include components/channels.js
