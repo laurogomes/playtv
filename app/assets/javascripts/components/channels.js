@@ -22,6 +22,6 @@ function truncate(str, num) {
     return str;
   } else {
     str = str.substring(0,num);
-    return str+"...";
+    return str+'...';
   }
 }
