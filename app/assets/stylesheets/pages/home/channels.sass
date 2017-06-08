@@ -62,12 +62,19 @@
       position: relative
       background-color: $white
 
+      +bp(lg)
+        height: 100%
+        max-height: 200px
+
       img
         top: 50%
         left: 50%
         position: relative
         +transition(300ms)
         transform: translate(-50%, -50%) scale(1.01)
+
+        +bp(lg)
+          transform: translateX(-50%) scale(1.01)
 
     &-description
       width: 100%
