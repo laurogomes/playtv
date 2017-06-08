@@ -1,5 +1,15 @@
 $(function(){
-  var $channels = $('.channels__list').isotope({itemSelector: '.channels__item'});
+  var $channels = $('.channels__list').isotope({
+    itemSelector: '.channels__item',
+    percentPosition: true
+  });
+
+  $channels.imagesLoaded().progress(function(imgLoad, image) {
+    if (image.isLoaded) {
+      $(image.img).parent().addClass('loaded');
+    }
+    $channels.isotope('layout');
+  });
 
   $('.header__menu-list').on('click', '.header__menu-item', function(event) {
     event.preventDefault();

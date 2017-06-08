@@ -12,6 +12,7 @@
 //=include isotope/dist/isotope.pkgd.js
 //#=include masonry/dist/masonry.pkgd.js
 //#=include packery/dist/packery.pkgd.js
+//=include imagesloaded/imagesloaded.pkgd.js
 //#=include photoswipe/dist/photoswipe.js
 //#=include photoswipe/dist/photoswipe-ui-default.js
 //#=include jquery-photoswipe/dist/jquery.photoswipe.js
@@ -20,5 +21,6 @@
 //#=include owl.carousel/dist/owl.carousel.js
 //#=include malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.js
 //#=include jQuery-One-Page-Nav/jquery.nav.js
-//#=include velocity/velocity.js
 //=include remodal/dist/remodal.js
+//#=include velocity/velocity.js
+//=include svgxuse/svgxuse.js

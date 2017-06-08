@@ -20,6 +20,8 @@
     "velocity": "^1.5.0",
     "jQuery-One-Page-Nav": "^3.0.0",
     "malihu-custom-scrollbar-plugin": "^3.1.5",
-    "remodal": "^1.1.1"
+    "remodal": "^1.1.1",
+    "imagesloaded": "^4.1.2",
+    "svgxuse": "^1.2.4"
   }
 }
