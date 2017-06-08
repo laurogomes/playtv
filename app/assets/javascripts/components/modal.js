@@ -1,14 +1,18 @@
 $(function(){
-  $(document).on('opening', '.modal', function() {
-    console.log('Modal is opening');
-  });
-  $(document).on('opened', '.modal', function() {
-    console.log('Modal is opening');
-  });
-  $(document).on('closing', '.modal', function() {
-    console.log('Modal is closing');
+  $('.channels__list').on('click', '.channels__item', function(event) {
+    var link = $(this).attr('data-link');
+    var image = $(this).find('img').attr('src');
+    var player = new Clappr.Player({
+      source: link,
+      poster: image,
+      width: '100%',
+      height: 'auto',
+      autoPlay: true,
+      parentId: '#modal-content',
+      disableVideoTagContextMenu: true
+    });
   });
   $(document).on('closed', '.modal', function() {
-    console.log('Modal is closed');
+    $('.modal__content').html('');
   });
 });
