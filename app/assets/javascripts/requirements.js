@@ -25,3 +25,4 @@
 //#=include velocity/velocity.js
 //=include svgxuse/svgxuse.js
 //=include clappr/dist/clappr.js
+//=include components/m3u.js

@@ -1,7 +1,11 @@
 $(function(){
   $.get('playtv.m3u', function(data) {
-    $.each(M3U.parse(data), function(i, item) {
-      console.log(this);
+    var result = parseM3U(data);
+    $.each(result.tracks, function(i, item) {
+      var link = item.file;
+      var title = item.title;
+      var image = item.params['tvg-logo'];
+      var category = toSlug(item.params['group-title']);
     });
   });
 
