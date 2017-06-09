@@ -2,32 +2,32 @@
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Jornalismo",TITLE
-LINK_HERE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",TITLE
+https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Documentários",TITLE
-LINK_HERE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Documentários",TITLE
+https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Esportes",TITLE
-LINK_HERE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Esportes",TITLE
+https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Filmes & Séries",TITLE
-LINK_HERE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Filmes & Séries",TITLE
+https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Infantil",TITLE
-LINK_HERE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Infantil",TITLE
+https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Músicas",TITLE
-LINK_HERE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",TITLE
+https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
 
 #################################################################################
