@@ -2,32 +2,32 @@
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Jornalismo",TITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",TITLE
 LINK_HERE
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Documentários",TITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Documentários",TITLE
 LINK_HERE
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Esportes",TITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Esportes",TITLE
 LINK_HERE
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Filmes & Séries",TITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Filmes & Séries",TITLE
 LINK_HERE
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Infantil",TITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Infantil",TITLE
 LINK_HERE
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="link_image" group-title="Músicas",TITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",TITLE
 LINK_HERE
 
 #################################################################################

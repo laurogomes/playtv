@@ -94,3 +94,12 @@ function toSlug(text){
   st = st.replace(/[\-]{2}/g,'');
   return (st.replace(/[^a-z\- ]*/gi,''));
 }
+
+function truncate(str, num) {
+  if (num > str.length) {
+    return str;
+  } else {
+    str = str.substring(0,num);
+    return str+'...';
+  }
+}
