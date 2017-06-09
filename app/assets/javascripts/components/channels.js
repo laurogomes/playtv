@@ -1,4 +1,10 @@
 $(function(){
+  $.get('playtv.m3u', function(data) {
+    $.each(M3U.parse(data), function(i, item) {
+      console.log(this);
+    });
+  });
+
   var $channels = $('.channels__list').isotope({
     itemSelector: '.channels__item',
     percentPosition: true
