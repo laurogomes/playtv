@@ -2,32 +2,124 @@
 
 #################################################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",TITLE
-https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
-
-#################################################################################
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Documentários",TITLE
-https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+LINK_HERE
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Documentários",Animal Planet HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 #################################################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Esportes",TITLE
-https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+LINK_HERE
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Esportes",Eurosport HD
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Esportes",NFL Now SD
+https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 
 #################################################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Filmes & Séries",TITLE
-https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+LINK_HERE
 
 #################################################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Infantil",TITLE
-https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+LINK_HERE
+
+#################################################################################
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",TITLE
+LINK_HERE
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",Band SD
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",Canal do Boi SD
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",Futura HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w19089781.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",Livre TV SD
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",Novo Tempo SD
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",Rede TV SD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",SBT SD
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-web.sdp/live.m3u8
+#http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",TV FAAP HD
+http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w1736024575.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",TVE BA HD
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",ABC News HD
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",BH News TV SD
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",Bloomberg TV HD
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",FOX23 News SD
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",FOX30 News SD
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Jornalismo",KIRO 7 News SD
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
 
 #################################################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",TITLE
-https://bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+LINK_HERE
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",1HD Music Television HD
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",Capital TV SD
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",City Television SD
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w1409174839.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",Heart TV SD
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",Hit TV SD
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",NRJ Hits HD
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w237950951.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",Radio Monte Carlo TV HD
+http://fms.105.net:1935/live/rmc1/chunklist_w1660735550.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",Radio 105 Network TV SD
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",Retro Music TV SD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",Visual Radio TV SD
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/assets/images/social.png" group-title="Músicas",TV Marajoara SD
+http://104.156.60.74:1935/canal50/canal50/chunklist_w1795649407.m3u8
 
 #################################################################################
