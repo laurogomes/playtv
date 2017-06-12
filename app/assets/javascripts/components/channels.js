@@ -59,9 +59,9 @@ $(function(){
       $('.modal__content').html('');
     });
 
-    $('.channels__item-description').each(function(i, item) {
-      var text = $(this).text();
-      $(this).text(truncate(text, 40));
-    });
+    // $('.channels__item-description').each(function(i, item) {
+    //   var text = $(this).text();
+    //   $(this).text(truncate(text, 40));
+    // });
   });
 });
