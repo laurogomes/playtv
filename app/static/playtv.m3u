@@ -2,95 +2,6 @@
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="AcriticaPlay HD" tvg-logo="http://i.imgur.com/e38z4KX.jpg" group-title="Jornalismo",AcriticaPlay HD
-http://iphone-streaming.ustream.tv:80/uhls/22972089/streams/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Band HD" tvg-logo="http://i.imgur.com/ENDGIbS.jpg" group-title="Jornalismo",Band HD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/193.m3u8
-
-#EXTINF:-1 tvg-id="Band SD" tvg-logo="http://i.imgur.com/ENDGIbS.jpg" group-title="Jornalismo",Band SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/124.m3u8
-
-#EXTINF:-1 tvg-id="Band News SD" tvg-logo="https://www.brandeps.com/logo-download/B/Band-News-TV-01.png" group-title="Jornalismo",Band News SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/126.m3u8
-
-#EXTINF:-1 tvg-id="BH News TV SD" tvg-logo="http://blog.chicomaia.com.br/wordpress/wp-content/uploads/2011/03/BHNEWS2.jpg" group-title="Jornalismo",BH News TV SD
-http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GloboNews SD" tvg-logo="http://s.videos.globo.com/pr/311_206.jpg" group-title="Jornalismo",GloboNews SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/88.m3u8
-
-#EXTINF:-1 tvg-id="Globo Premium SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo Premium SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/449.m3u8
-
-#EXTINF:-1 tvg-id="Globo RJ HD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo RJ HD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/170.m3u8
-
-#EXTINF:-1 tvg-id="Globo RJ SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo RJ SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/1448.m3u8
-
-#EXTINF:-1 tvg-id="Globo SP SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo SP SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/89.m3u8
-
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",RBS TV Porto Alegre SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/43.m3u8
-
-#EXTINF:-1 tvg-id="Record HD" tvg-logo="https://rd1.com.br/wp-content/uploads/2014/11/record_novo_logo.png" group-title="Jornalismo",Record HD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/149.m3u8
-
-#EXTINF:-1 tvg-id="Record SD" tvg-logo="https://rd1.com.br/wp-content/uploads/2014/11/record_novo_logo.png" group-title="Jornalismo",Record SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/41.m3u8
-
-#EXTINF:-1 tvg-id="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-vertical-2016.jpg" group-title="Jornalismo",Record News SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/42.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV HD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/xx-35.jpg" group-title="Jornalismo",RedeTV HD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/148.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV SD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/xx-35.jpg" group-title="Jornalismo",RedeTV SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/39.m3u8
-
-#EXTINF:-1 tvg-id="SBT HD" tvg-logo="http://www.sbt.com.br/images/logos_wide/logosbt_og.jpg" group-title="Jornalismo",SBT HD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/147.m3u8
-
-#EXTINF:-1 tvg-id="SBT SD" tvg-logo="http://www.sbt.com.br/images/logos_wide/logosbt_og.jpg" group-title="Jornalismo",SBT SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/36.m3u8
-
-#EXTINF:-1 tvg-id="TV Cultura HD" tvg-logo="https://lh5.googleusercontent.com/-qvQBX1qKh6o/AAAAAAAAAAI/AAAAAAAAtRM/FxrbA0VuTUI/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",TV Cultura HD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/564.m3u8
-
-#EXTINF:-1 tvg-id="TV Cultura SD" tvg-logo="https://lh5.googleusercontent.com/-qvQBX1qKh6o/AAAAAAAAAAI/AAAAAAAAtRM/FxrbA0VuTUI/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",TV Cultura SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/8.m3u8
-
-#EXTINF:-1 tvg-id="TV Clima HD" tvg-logo="http://i.imgur.com/UbSDSqL.png" group-title="Jornalismo",TV Clima HD
-http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
-
-#EXTINF:-1 tvg-id="TV Escola HD" tvg-logo="https://yt3.ggpht.com/-ing2K4ksoA8/AAAAAAAAAAI/AAAAAAAAAAA/w2R6ALTfP_M/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Jornalismo",TV Escola HD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/565.m3u8
-
-#EXTINF:-1 tvg-id="TV Futura SD" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Jornalismo",TV Futura SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/91.m3u8
-
-#EXTINF:-1 tvg-id="TV Gazeta HD" tvg-logo="https://pbs.twimg.com/profile_images/706853204059938816/EwRD_yZf.jpg" group-title="Jornalismo",TV Gazeta HD
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-id="TV Gazeta SD" tvg-logo="https://pbs.twimg.com/profile_images/706853204059938816/EwRD_yZf.jpg" group-title="Jornalismo",TV Gazeta SD
-http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Ponta Negra News SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ec/Logotipo_TV_Ponta_Negra.jpg" group-title="Jornalismo",TV Ponta Negra News SD
-http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
-
-#EXTINF:-1 tvg-id="TV Tem Sorocaba SD" tvg-logo="http://i.imgur.com/NvcE4Kx.png" group-title="Jornalismo",TV Tem Sorocaba SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/1447.m3u8
-
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://lh6.googleusercontent.com/-MYSr-RpXBlQ/AAAAAAAAAAI/AAAAAAAA64E/h6YyhpvhdIE/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",Viva HD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/133.m3u8
-
-#EXTINF:-1 tvg-id="Viva SD" tvg-logo="https://lh6.googleusercontent.com/-MYSr-RpXBlQ/AAAAAAAAAAI/AAAAAAAA64E/h6YyhpvhdIE/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",Viva SD
-http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/3.m3u8
-
-#################################################################################
-
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://lh6.googleusercontent.com/-FEsYkupUb-A/AAAAAAAAAAI/AAAAAAAACQY/YFfu_clTAwo/s0-c-k-no-ns/photo.jpg" group-title="Documentários",Animal Planet HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/195.m3u8
 
@@ -504,6 +415,95 @@ http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/60.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast SD" tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/tooncast.png" group-title="Infantil",Tooncast SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/11.m3u8
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="AcriticaPlay HD" tvg-logo="http://i.imgur.com/e38z4KX.jpg" group-title="Jornalismo",AcriticaPlay HD
+http://iphone-streaming.ustream.tv:80/uhls/22972089/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band HD" tvg-logo="http://i.imgur.com/ENDGIbS.jpg" group-title="Jornalismo",Band HD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/193.m3u8
+
+#EXTINF:-1 tvg-id="Band SD" tvg-logo="http://i.imgur.com/ENDGIbS.jpg" group-title="Jornalismo",Band SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/124.m3u8
+
+#EXTINF:-1 tvg-id="Band News SD" tvg-logo="https://www.brandeps.com/logo-download/B/Band-News-TV-01.png" group-title="Jornalismo",Band News SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/126.m3u8
+
+#EXTINF:-1 tvg-id="BH News TV SD" tvg-logo="http://blog.chicomaia.com.br/wordpress/wp-content/uploads/2011/03/BHNEWS2.jpg" group-title="Jornalismo",BH News TV SD
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GloboNews SD" tvg-logo="http://s.videos.globo.com/pr/311_206.jpg" group-title="Jornalismo",GloboNews SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/88.m3u8
+
+#EXTINF:-1 tvg-id="Globo Premium SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo Premium SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/449.m3u8
+
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo RJ HD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/170.m3u8
+
+#EXTINF:-1 tvg-id="Globo RJ SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo RJ SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/1448.m3u8
+
+#EXTINF:-1 tvg-id="Globo SP SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo SP SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/89.m3u8
+
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",RBS TV Porto Alegre SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/43.m3u8
+
+#EXTINF:-1 tvg-id="Record HD" tvg-logo="https://rd1.com.br/wp-content/uploads/2014/11/record_novo_logo.png" group-title="Jornalismo",Record HD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/149.m3u8
+
+#EXTINF:-1 tvg-id="Record SD" tvg-logo="https://rd1.com.br/wp-content/uploads/2014/11/record_novo_logo.png" group-title="Jornalismo",Record SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/41.m3u8
+
+#EXTINF:-1 tvg-id="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-vertical-2016.jpg" group-title="Jornalismo",Record News SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/42.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV HD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/xx-35.jpg" group-title="Jornalismo",RedeTV HD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/148.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV SD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/xx-35.jpg" group-title="Jornalismo",RedeTV SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/39.m3u8
+
+#EXTINF:-1 tvg-id="SBT HD" tvg-logo="http://www.sbt.com.br/images/logos_wide/logosbt_og.jpg" group-title="Jornalismo",SBT HD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/147.m3u8
+
+#EXTINF:-1 tvg-id="SBT SD" tvg-logo="http://www.sbt.com.br/images/logos_wide/logosbt_og.jpg" group-title="Jornalismo",SBT SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/36.m3u8
+
+#EXTINF:-1 tvg-id="TV Cultura HD" tvg-logo="https://lh5.googleusercontent.com/-qvQBX1qKh6o/AAAAAAAAAAI/AAAAAAAAtRM/FxrbA0VuTUI/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",TV Cultura HD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/564.m3u8
+
+#EXTINF:-1 tvg-id="TV Cultura SD" tvg-logo="https://lh5.googleusercontent.com/-qvQBX1qKh6o/AAAAAAAAAAI/AAAAAAAAtRM/FxrbA0VuTUI/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",TV Cultura SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/8.m3u8
+
+#EXTINF:-1 tvg-id="TV Clima HD" tvg-logo="http://i.imgur.com/UbSDSqL.png" group-title="Jornalismo",TV Clima HD
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-id="TV Escola HD" tvg-logo="https://yt3.ggpht.com/-ing2K4ksoA8/AAAAAAAAAAI/AAAAAAAAAAA/w2R6ALTfP_M/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Jornalismo",TV Escola HD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/565.m3u8
+
+#EXTINF:-1 tvg-id="TV Futura SD" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Jornalismo",TV Futura SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/91.m3u8
+
+#EXTINF:-1 tvg-id="TV Gazeta HD" tvg-logo="https://pbs.twimg.com/profile_images/706853204059938816/EwRD_yZf.jpg" group-title="Jornalismo",TV Gazeta HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="TV Gazeta SD" tvg-logo="https://pbs.twimg.com/profile_images/706853204059938816/EwRD_yZf.jpg" group-title="Jornalismo",TV Gazeta SD
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Ponta Negra News SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ec/Logotipo_TV_Ponta_Negra.jpg" group-title="Jornalismo",TV Ponta Negra News SD
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
+
+#EXTINF:-1 tvg-id="TV Tem Sorocaba SD" tvg-logo="http://i.imgur.com/NvcE4Kx.png" group-title="Jornalismo",TV Tem Sorocaba SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/1447.m3u8
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://lh6.googleusercontent.com/-MYSr-RpXBlQ/AAAAAAAAAAI/AAAAAAAA64E/h6YyhpvhdIE/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",Viva HD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/133.m3u8
+
+#EXTINF:-1 tvg-id="Viva SD" tvg-logo="https://lh6.googleusercontent.com/-MYSr-RpXBlQ/AAAAAAAAAAI/AAAAAAAA64E/h6YyhpvhdIE/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",Viva SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/3.m3u8
 
 #################################################################################
 
