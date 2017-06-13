@@ -12,9 +12,8 @@ $(function(){
       channel += '<div class="channels__item-description">'+title+'</div>';
       channel += '</div>';
     });
-
     $('.channels__list').html(channel);
-    $(document.body).addClass('loaded');
+    $('.channels__list').parents('.channels').addClass('loaded')
 
     var $channels = $('.channels__list').isotope({
       itemSelector: '.channels__item',
@@ -34,7 +33,6 @@ $(function(){
       event.preventDefault();
       var filter = $(this).attr('data-filter');
       $(document.body).removeAttr('class');
-      $(document.body).addClass('loaded');
       $(document.body).addClass(filter.substring(1));
       $('.header__menu-item').removeClass('active');
       $(this).addClass('active');
