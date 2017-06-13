@@ -2,548 +2,548 @@
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://lh6.googleusercontent.com/-FEsYkupUb-A/AAAAAAAAAAI/AAAAAAAACQY/YFfu_clTAwo/s0-c-k-no-ns/photo.jpg" group-title="Documentários",Animal Planet HD
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentários",Animal Planet HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/195.m3u8
 
-#EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://lh6.googleusercontent.com/-FEsYkupUb-A/AAAAAAAAAAI/AAAAAAAACQY/YFfu_clTAwo/s0-c-k-no-ns/photo.jpg" group-title="Documentários",Animal Planet SD
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentários",Animal Planet SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/131.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://lh4.googleusercontent.com/-9swW14alzl0/AAAAAAAAAAI/AAAAAAAAFOo/KM6UPwXRS0U/s0-c-k-no-ns/photo.jpg" group-title="Documentários",Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_channel.png" group-title="Documentários",Discovery Channel HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/188.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel SD" tvg-logo="https://lh4.googleusercontent.com/-9swW14alzl0/AAAAAAAAAAI/AAAAAAAAFOo/KM6UPwXRS0U/s0-c-k-no-ns/photo.jpg" group-title="Documentários",Discovery Channel SD
+#EXTINF:-1 tvg-id="Discovery Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_channel.png" group-title="Documentários",Discovery Channel SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/111.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Civilization SD" tvg-logo="https://lh4.googleusercontent.com/-9swW14alzl0/AAAAAAAAAAI/AAAAAAAAFOo/KM6UPwXRS0U/s0-c-k-no-ns/photo.jpg" group-title="Documentários",Discovery Civilization SD
+#EXTINF:-1 tvg-id="Discovery Civilization SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_civilization.png" group-title="Documentários",Discovery Civilization SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/110.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-logo="https://lh4.googleusercontent.com/-9swW14alzl0/AAAAAAAAAAI/AAAAAAAAFOo/KM6UPwXRS0U/s0-c-k-no-ns/photo.jpg" group-title="Documentários",Discovery Home & Health HD
+#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_home_health.png" group-title="Documentários",Discovery Home & Health HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/187.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Home & Health SD" tvg-logo="https://lh4.googleusercontent.com/-9swW14alzl0/AAAAAAAAAAI/AAAAAAAAFOo/KM6UPwXRS0U/s0-c-k-no-ns/photo.jpg" group-title="Documentários",Discovery Home & Health SD
+#EXTINF:-1 tvg-id="Discovery Home & Health SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_home_health.png" group-title="Documentários",Discovery Home & Health SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/109.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Investigação HD" tvg-logo="http://2.bp.blogspot.com/-g7kclnMAZPA/T3ClVDJR-vI/AAAAAAAAEsA/goncQjp63AI/s500/Investigation+Discovery+logo+2012.jpg" group-title="Documentários",Discovery Investigação HD
+#EXTINF:-1 tvg-id="Discovery Investigação HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentários",Discovery Investigação HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/161.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Investigação SD" tvg-logo="http://2.bp.blogspot.com/-g7kclnMAZPA/T3ClVDJR-vI/AAAAAAAAEsA/goncQjp63AI/s500/Investigation+Discovery+logo+2012.jpg" group-title="Documentários",Discovery Investigação SD
+#EXTINF:-1 tvg-id="Discovery Investigação SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentários",Discovery Investigação SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/77.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Science SD" tvg-logo="https://lh4.googleusercontent.com/-xAZHRrsBjd4/AAAAAAAAAAI/AAAAAAAADbs/ESBdsz43X7g/s0-c-k-no-ns/photo.jpg" group-title="Documentários",Discovery Science SD
+#EXTINF:-1 tvg-id="Discovery Science SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_science.png" group-title="Documentários",Discovery Science SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/107.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-logo="https://pbs.twimg.com/profile_images/641745128407830528/7kZCHucA.png" group-title="Documentários",Discovery Turbo HD
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Documentários",Discovery Turbo HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/185.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-logo="https://pbs.twimg.com/profile_images/641745128407830528/7kZCHucA.png" group-title="Documentários",Discovery Turbo SD
+#EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Documentários",Discovery Turbo SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/106.m3u8
 
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="https://lh4.googleusercontent.com/-9swW14alzl0/AAAAAAAAAAI/AAAAAAAAFOo/KM6UPwXRS0U/s0-c-k-no-ns/photo.jpg" group-title="Documentários",Discovery World HD
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_world.png" group-title="Documentários",Discovery World HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/184.m3u8
 
-#EXTINF:-1 tvg-id="FishTV SD" tvg-logo="https://lh4.googleusercontent.com/-9swW14alzl0/AAAAAAAAAAI/AAAAAAAAFOo/KM6UPwXRS0U/s0-c-k-no-ns/photo.jpg" group-title="Documentários",FishTV SD
+#EXTINF:-1 tvg-id="FishTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fishtv.png" group-title="Documentários",FishTV SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/97.m3u8
 
-#EXTINF:-1 tvg-id="History HD" tvg-logo="https://lh3.googleusercontent.com/-tIQN2Z8Fv0k/AAAAAAAAAAI/AAAAAAAABTo/QCmjgk-l7jo/s0-c-k-no-ns/photo.jpg" group-title="Documentários",History HD
+#EXTINF:-1 tvg-id="History HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/history.png" group-title="Documentários",History HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/162.m3u8
 
-#EXTINF:-1 tvg-id="History SD" tvg-logo="https://lh3.googleusercontent.com/-tIQN2Z8Fv0k/AAAAAAAAAAI/AAAAAAAABTo/QCmjgk-l7jo/s0-c-k-no-ns/photo.jpg" group-title="Documentários",History SD
+#EXTINF:-1 tvg-id="History SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/history.png" group-title="Documentários",History SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/15.m3u8
 
-#EXTINF:-1 tvg-id="H2 HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/08/canal-h2-hd-na-net.png" group-title="Documentários",H2 HD
+#EXTINF:-1 tvg-id="H2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/h2.png" group-title="Documentários",H2 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/168.m3u8
 
-#EXTINF:-1 tvg-id="H2 SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/08/canal-h2-hd-na-net.png" group-title="Documentários",H2 SD
+#EXTINF:-1 tvg-id="H2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/h2.png" group-title="Documentários",H2 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/85.m3u8
 
-#EXTINF:-1 tvg-id="Nat Geo HD" tvg-logo="https://lh3.googleusercontent.com/-s0rqG9_m-S4/AAAAAAAAAAI/AAAAAAAAAiY/k3otVdJvoyA/photo.jpg" group-title="Documentários",Nat Geo HD
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo.png" group-title="Documentários",Nat Geo HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/157.m3u8
 
-#EXTINF:-1 tvg-id="Nat Geo SD" tvg-logo="https://lh3.googleusercontent.com/-s0rqG9_m-S4/AAAAAAAAAAI/AAAAAAAAAiY/k3otVdJvoyA/photo.jpg" group-title="Documentários",Nat Geo SD
+#EXTINF:-1 tvg-id="Nat Geo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo.png" group-title="Documentários",Nat Geo SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/64.m3u8
 
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThzx7pqWUwfbhJHPOuW4knKwtqFA0yhnkfbsQt92hbanYtPsHJ" group-title="Documentários",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo_wild.png" group-title="Documentários",Nat Geo Wild HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/158.m3u8
 
-#EXTINF:-1 tvg-id="Nat Geo Wild SD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThzx7pqWUwfbhJHPOuW4knKwtqFA0yhnkfbsQt92hbanYtPsHJ" group-title="Documentários",Nat Geo Wild SD
+#EXTINF:-1 tvg-id="Nat Geo Wild SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo_wild.png" group-title="Documentários",Nat Geo Wild SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/65.m3u8
 
-#EXTINF:-1 tvg-id="TLC SD" tvg-logo="http://i.imgur.com/wc2NRGd.png" group-title="Documentários",TLC SD
+#EXTINF:-1 tvg-id="TLC SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tlc.png" group-title="Documentários",TLC SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/14.m3u8
 
-#EXTINF:-1 tvg-id="TruTV SD" tvg-logo="http://tvisual.org/wp-content/uploads/2011/01/trutv-logo.gif" group-title="Documentários",TruTV SD
+#EXTINF:-1 tvg-id="TruTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/trutv.png" group-title="Documentários",TruTV SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/10.m3u8
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="All Sports SD" tvg-logo="http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png" group-title="Esportes",All Sports SD
+#EXTINF:-1 tvg-id="All Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/allsports.png" group-title="Esportes",All Sports SD
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="http://aovivonatv.com/fotos/b3cc84dd234b8545d0829dc6454a52c3.jpg" group-title="Esportes",Band Sports HD
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bandsports.png" group-title="Esportes",Band Sports HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/192.m3u8
 
-#EXTINF:-1 tvg-id="Band Sports SD" tvg-logo="http://aovivonatv.com/fotos/b3cc84dd234b8545d0829dc6454a52c3.jpg" group-title="Esportes",Band Sports SD
+#EXTINF:-1 tvg-id="Band Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bandsports.png" group-title="Esportes",Band Sports SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/125.m3u8
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="Esportes",Combate HD
+#EXTINF:-1 tvg-id="Combate HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/189.m3u8
 
-#EXTINF:-1 tvg-id="Combate SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="Esportes",Combate SD
+#EXTINF:-1 tvg-id="Combate SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/114.m3u8
 
-#EXTINF:-1 tvg-id="EI Maxx HD" tvg-logo="http://i.imgur.com/4C4sRBy.png" group-title="Esportes",EI Maxx HD
+#EXTINF:-1 tvg-id="EI Maxx HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx.png" group-title="Esportes",EI Maxx HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/182.m3u8
 
-#EXTINF:-1 tvg-id="EI Maxx SD" tvg-logo="http://i.imgur.com/4C4sRBy.png" group-title="Esportes",EI Maxx SD
+#EXTINF:-1 tvg-id="EI Maxx SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx.png" group-title="Esportes",EI Maxx SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/101.m3u8
 
-#EXTINF:-1 tvg-id="EI Maxx 2 HD" tvg-logo="http://i.imgur.com/4C4sRBy.png" group-title="Esportes",EI Maxx 2 HD
+#EXTINF:-1 tvg-id="EI Maxx 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx2.png" group-title="Esportes",EI Maxx 2 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/183.m3u8
 
-#EXTINF:-1 tvg-id="EI Maxx 2 SD" tvg-logo="http://i.imgur.com/4C4sRBy.png" group-title="Esportes",EI Maxx 2 SD
+#EXTINF:-1 tvg-id="EI Maxx 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx2.png" group-title="Esportes",EI Maxx 2 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/100.m3u8
 
-#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-logo="http://torcedores.uol.com.br/content/uploads/2016/08/espn-olimpiadas.jpg" group-title="Esportes",ESPN Brasil HD
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_brasil.png" group-title="Esportes",ESPN Brasil HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/180.m3u8
 
-#EXTINF:-1 tvg-id="ESPN Brasil SD" tvg-logo="http://torcedores.uol.com.br/content/uploads/2016/08/espn-olimpiadas.jpg" group-title="Esportes",ESPN Brasil SD
+#EXTINF:-1 tvg-id="ESPN Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_brasil.png" group-title="Esportes",ESPN Brasil SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/98.m3u8
 
-#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="https://lh4.googleusercontent.com/-yOoKXdob9y8/AAAAAAAAAAI/AAAAAAACGhA/8da2RPNLNUA/s0-c-k-no-ns/photo.jpg" group-title="Esportes",ESPN HD
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn.png" group-title="Esportes",ESPN HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/179.m3u8
 
-#EXTINF:-1 tvg-id="ESPN SD" tvg-logo="https://lh4.googleusercontent.com/-yOoKXdob9y8/AAAAAAAAAAI/AAAAAAACGhA/8da2RPNLNUA/s0-c-k-no-ns/photo.jpg" group-title="Esportes",ESPN SD
+#EXTINF:-1 tvg-id="ESPN SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn.png" group-title="Esportes",ESPN SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/99.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+ SD" tvg-logo="https://pbs.twimg.com/profile_images/515646653349380096/v9hQfNQI_400x400.png" group-title="Esportes",ESPN+ SD
+#EXTINF:-1 tvg-id="ESPN+ SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_plus.png" group-title="Esportes",ESPN+ SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/181.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="https://lh3.googleusercontent.com/-SYcTRo0NwWQ/AAAAAAAAAAI/AAAAAAAAdlw/6fFZiVdCJkE/s0-c-k-no-ns/photo.jpg" group-title="Esportes",Fox Sports HD
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports.png" group-title="Esportes",Fox Sports HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/173.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports SD" tvg-logo="https://lh3.googleusercontent.com/-SYcTRo0NwWQ/AAAAAAAAAAI/AAAAAAAAdlw/6fFZiVdCJkE/s0-c-k-no-ns/photo.jpg" group-title="Esportes",Fox Sports SD
+#EXTINF:-1 tvg-id="Fox Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports.png" group-title="Esportes",Fox Sports SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/93.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-logo="https://lh3.googleusercontent.com/-SYcTRo0NwWQ/AAAAAAAAAAI/AAAAAAAAdlw/6fFZiVdCJkE/s0-c-k-no-ns/photo.jpg" group-title="Esportes",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports2.png" group-title="Esportes",Fox Sports 2 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/172.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports 2 SD" tvg-logo="https://lh3.googleusercontent.com/-SYcTRo0NwWQ/AAAAAAAAAAI/AAAAAAAAdlw/6fFZiVdCJkE/s0-c-k-no-ns/photo.jpg" group-title="Esportes",Fox Sports 2 SD
+#EXTINF:-1 tvg-id="Fox Sports 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports2.png" group-title="Esportes",Fox Sports 2 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/92.m3u8
 
-#EXTINF:-1 tvg-id="SporTV HD" tvg-logo="https://v.cdn.vine.co/r/avatars/D455444B791217300862906064896_3a288fd2e7f.3.3.jpg?versionId=Alg365r5vZIcCt4mFJnrjdCMQe2VkJI_" group-title="Esportes",SporTV HD
+#EXTINF:-1 tvg-id="SporTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/143.m3u8
 
-#EXTINF:-1 tvg-id="SporTV SD" tvg-logo="https://v.cdn.vine.co/r/avatars/D455444B791217300862906064896_3a288fd2e7f.3.3.jpg?versionId=Alg365r5vZIcCt4mFJnrjdCMQe2VkJI_" group-title="Esportes",SporTV SD
+#EXTINF:-1 tvg-id="SporTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/31.m3u8
 
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-logo="https://v.cdn.vine.co/r/avatars/D455444B791217300862906064896_3a288fd2e7f.3.3.jpg?versionId=Alg365r5vZIcCt4mFJnrjdCMQe2VkJI_" group-title="Esportes",SporTV 2 HD
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 2 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/145.m3u8
 
-#EXTINF:-1 tvg-id="SporTV 2 SD" tvg-logo="https://v.cdn.vine.co/r/avatars/D455444B791217300862906064896_3a288fd2e7f.3.3.jpg?versionId=Alg365r5vZIcCt4mFJnrjdCMQe2VkJI_" group-title="Esportes",SporTV 2 SD
+#EXTINF:-1 tvg-id="SporTV 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 2 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/30.m3u8
 
-#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-logo="https://v.cdn.vine.co/r/avatars/D455444B791217300862906064896_3a288fd2e7f.3.3.jpg?versionId=Alg365r5vZIcCt4mFJnrjdCMQe2VkJI_" group-title="Esportes",SporTV 3 HD
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 3 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/144.m3u8
 
-#EXTINF:-1 tvg-id="SporTV 3 SD" tvg-logo="https://v.cdn.vine.co/r/avatars/D455444B791217300862906064896_3a288fd2e7f.3.3.jpg?versionId=Alg365r5vZIcCt4mFJnrjdCMQe2VkJI_" group-title="Esportes",SporTV 3 SD
+#EXTINF:-1 tvg-id="SporTV 3 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 3 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/28.m3u8
 
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere Clubes HD
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere Clubes HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/154.m3u8
 
-#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere Clubes SD
+#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere Clubes SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/46.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 2 HD
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 2 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/153.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 2 SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 2 SD
+#EXTINF:-1 tvg-id="Premiere 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 2 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/54.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 3 HD
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 3 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/152.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 3 SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 3 SD
+#EXTINF:-1 tvg-id="Premiere 3 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 3 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/53.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 4 HD
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 4 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/151.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 4 SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 4 SD
+#EXTINF:-1 tvg-id="Premiere 4 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 4 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/52.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 5 HD
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 5 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/150.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 5 SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 5 SD
+#EXTINF:-1 tvg-id="Premiere 5 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 5 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/51.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 6 SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 6 SD
+#EXTINF:-1 tvg-id="Premiere 6 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 6 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/50.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 7 SD
+#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 7 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/49.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 8 SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 8 SD
+#EXTINF:-1 tvg-id="Premiere 8 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 8 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/48.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 9 SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 9 SD
+#EXTINF:-1 tvg-id="Premiere 9 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 9 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/47.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 10 SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 10 SD
+#EXTINF:-1 tvg-id="Premiere 10 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 10 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/27.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 11 SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-premiere-fc-hd-passa-a-se-chamar-premiere-clubes-hd.jpeg" group-title="Esportes",Premiere 11 SD
+#EXTINF:-1 tvg-id="Premiere 11 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 11 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/29.m3u8
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://cdn2.appaix.com/2015/1122/amc-1074_d324a.png" group-title="Filmes & Séries",AMC HD
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/amc.png" group-title="Filmes & Séries",AMC HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/1013.m3u8
 
-#EXTINF:-1 tvg-id="A&E SD" tvg-logo="https://lh4.googleusercontent.com/-x7nvFKXjVwg/AAAAAAAAAAI/AAAAAAAAFGQ/3xwuZ1M_eZ0/s0-c-k-no-ns/photo.jpg" group-title="Filmes & Séries",A&E SD
+#EXTINF:-1 tvg-id="A&E SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Séries",A&E SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/132.m3u8
 
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://lh5.googleusercontent.com/-FxcNS0KrNpQ/AAAAAAAAAAI/AAAAAAAAUGw/xs9l7yt-1VQ/s0-c-k-no-ns/photo.jpg" group-title="Filmes & Séries",AXN HD
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/axn.png" group-title="Filmes & Séries",AXN HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/194.m3u8
 
-#EXTINF:-1 tvg-id="AXN SD" tvg-logo="https://lh5.googleusercontent.com/-FxcNS0KrNpQ/AAAAAAAAAAI/AAAAAAAAUGw/xs9l7yt-1VQ/s0-c-k-no-ns/photo.jpg" group-title="Filmes & Séries",AXN SD
+#EXTINF:-1 tvg-id="AXN SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/axn.png" group-title="Filmes & Séries",AXN SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/128.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax SD" tvg-logo="http://logonoid.com/images/thumbs/cinemax-logo.png" group-title="Filmes & Séries",Cinemax SD
+#EXTINF:-1 tvg-id="Cinemax SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cinemax.png" group-title="Filmes & Séries",Cinemax SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/115.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central SD" tvg-logo="https://i.vimeocdn.com/portrait/4135398_300x300" group-title="Filmes & Séries",Comedy Central SD
+#EXTINF:-1 tvg-id="Comedy Central SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/comedy_central.png" group-title="Filmes & Séries",Comedy Central SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/113.m3u8
 
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="https://lh5.googleusercontent.com/-E0uDPx1zoOM/AAAAAAAAAAI/AAAAAAAACuE/WZ5154foE6Y/s0-c-k-no-ns/photo.jpg" group-title="Filmes & Séries",Fox HD
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox.png" group-title="Filmes & Séries",Fox HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/175.m3u8
 
-#EXTINF:-1 tvg-id="Fox SD" tvg-logo="https://lh5.googleusercontent.com/-E0uDPx1zoOM/AAAAAAAAAAI/AAAAAAAACuE/WZ5154foE6Y/s0-c-k-no-ns/photo.jpg" group-title="Filmes & Séries",Fox SD
+#EXTINF:-1 tvg-id="Fox SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox.png" group-title="Filmes & Séries",Fox SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/95.m3u8
 
-#EXTINF:-1 tvg-id="Fox Life HD" tvg-logo="http://www.foxlife.it/img/foxlife-logo-fb.jpg" group-title="Filmes & Séries",Fox Life HD
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_life.png" group-title="Filmes & Séries",Fox Life HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/174.m3u8
 
-#EXTINF:-1 tvg-id="Fox Life SD" tvg-logo="http://www.foxlife.it/img/foxlife-logo-fb.jpg" group-title="Filmes & Séries",Fox Life SD
+#EXTINF:-1 tvg-id="Fox Life SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_life.png" group-title="Filmes & Séries",Fox Life SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/94.m3u8
 
-#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-logo="http://i.imgur.com/cE56XM0.jpg" group-title="Filmes & Séries",Fox Premium 1 HD
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_premium.png" group-title="Filmes & Séries",Fox Premium 1 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/177.m3u8
 
-#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-logo="http://i.imgur.com/cE56XM0.jpg" group-title="Filmes & Séries",Fox Premium 2 HD
+#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_premium.png" group-title="Filmes & Séries",Fox Premium 2 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/176.m3u8
 
-#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://pbs.twimg.com/profile_images/1158249304/Logo-lat-2010_400x400.jpg" group-title="Filmes & Séries",FX HD
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fx.png" group-title="Filmes & Séries",FX HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/171.m3u8
 
-#EXTINF:-1 tvg-id="FX SD" tvg-logo="https://pbs.twimg.com/profile_images/1158249304/Logo-lat-2010_400x400.jpg" group-title="Filmes & Séries",FX SD
+#EXTINF:-1 tvg-id="FX SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fx.png" group-title="Filmes & Séries",FX SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/90.m3u8
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://lh3.googleusercontent.com/-ZS1B11Ixwrs/VzsVlxVN_2I/AAAAAAAAMSc/lCtATcCf7GATiNvhKCvb0JkTm9ErDg4XgCL0B/s299-no/HBOlogoTW.jpg" group-title="Filmes & Séries",HBO HD
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo.png" group-title="Filmes & Séries",HBO HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/165.m3u8
 
-#EXTINF:-1 tvg-id="HBO SD" tvg-logo="https://lh3.googleusercontent.com/-ZS1B11Ixwrs/VzsVlxVN_2I/AAAAAAAAMSc/lCtATcCf7GATiNvhKCvb0JkTm9ErDg4XgCL0B/s299-no/HBOlogoTW.jpg" group-title="Filmes & Séries",HBO SD
+#EXTINF:-1 tvg-id="HBO SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo.png" group-title="Filmes & Séries",HBO SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/84.m3u8
 
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://lh3.googleusercontent.com/-ZS1B11Ixwrs/VzsVlxVN_2I/AAAAAAAAMSc/lCtATcCf7GATiNvhKCvb0JkTm9ErDg4XgCL0B/s299-no/HBOlogoTW.jpg" group-title="Filmes & Séries",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo2.png" group-title="Filmes & Séries",HBO 2 HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/167.m3u8
 
-#EXTINF:-1 tvg-id="HBO 2 SD" tvg-logo="https://lh3.googleusercontent.com/-ZS1B11Ixwrs/VzsVlxVN_2I/AAAAAAAAMSc/lCtATcCf7GATiNvhKCvb0JkTm9ErDg4XgCL0B/s299-no/HBOlogoTW.jpg" group-title="Filmes & Séries",HBO 2 SD
+#EXTINF:-1 tvg-id="HBO 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo2.png" group-title="Filmes & Séries",HBO 2 SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/79.m3u8
 
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-logo="http://i.imgur.com/jFbLjEw.png" group-title="Filmes & Séries",HBO Plus HD
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus.png" group-title="Filmes & Séries",HBO Plus HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/164.m3u8
 
-#EXTINF:-1 tvg-id="HBO Plus SD" tvg-logo="http://i.imgur.com/jFbLjEw.png" group-title="Filmes & Séries",HBO Plus SD
+#EXTINF:-1 tvg-id="HBO Plus SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus.png" group-title="Filmes & Séries",HBO Plus SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/82.m3u8
 
-#EXTINF:-1 tvg-id="HBO Plus *e SD" tvg-logo="http://i.imgur.com/fsr65H4.png" group-title="Filmes & Séries",HBO Plus *e SD
+#EXTINF:-1 tvg-id="HBO Plus *e SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus_e.png" group-title="Filmes & Séries",HBO Plus *e SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/81.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="http://i.imgur.com/RQa2ipx.png" group-title="Filmes & Séries",HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_family.png" group-title="Filmes & Séries",HBO Family HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/166.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family SD" tvg-logo="http://i.imgur.com/RQa2ipx.png" group-title="Filmes & Séries",HBO Family SD
+#EXTINF:-1 tvg-id="HBO Family SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_family.png" group-title="Filmes & Séries",HBO Family SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/83.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="http://4vector.com/i/free-vector-hbo-signature_057214_hbo-signature.png" group-title="Filmes & Séries",HBO Signature HD
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_signature.png" group-title="Filmes & Séries",HBO Signature HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/163.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature SD" tvg-logo="http://4vector.com/i/free-vector-hbo-signature_057214_hbo-signature.png" group-title="Filmes & Séries",HBO Signature SD
+#EXTINF:-1 tvg-id="HBO Signature SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_signature.png" group-title="Filmes & Séries",HBO Signature SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/80.m3u8
 
-#EXTINF:-1 tvg-id="Max SD" tvg-logo="http://i.imgur.com/IGetW4Z.jpg" group-title="Filmes & Séries",Max SD
+#EXTINF:-1 tvg-id="Max SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max.png" group-title="Filmes & Séries",Max SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/73.m3u8
 
-#EXTINF:-1 tvg-id="Max UP HD" tvg-logo="http://i.imgur.com/qF0C1pP.jpg" group-title="Filmes & Séries",Max UP HD
+#EXTINF:-1 tvg-id="Max UP HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_up.png" group-title="Filmes & Séries",Max UP HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/70.m3u8
 
-#EXTINF:-1 tvg-id="Max Prime SD" tvg-logo="http://i.imgur.com/JfMZf2a.jpg" group-title="Filmes & Séries",Max Prime SD
+#EXTINF:-1 tvg-id="Max Prime SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_prime.png" group-title="Filmes & Séries",Max Prime SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/72.m3u8
 
-#EXTINF:-1 tvg-id="Max Prime *e SD" tvg-logo="http://i.imgur.com/3yAenP0.png" group-title="Filmes & Séries",Max Prime *e SD
+#EXTINF:-1 tvg-id="Max Prime *e SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_prime_e.png" group-title="Filmes & Séries",Max Prime *e SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/71.m3u8
 
-#EXTINF:-1 tvg-id="Megapix HD" tvg-logo="http://megapix.estaticos.tv.br/img/megapix_og.jpg" group-title="Filmes & Séries",Megapix HD
+#EXTINF:-1 tvg-id="Megapix HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/megapix.png" group-title="Filmes & Séries",Megapix HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/160.m3u8
 
-#EXTINF:-1 tvg-id="Megapix SD" tvg-logo="http://megapix.estaticos.tv.br/img/megapix_og.jpg" group-title="Filmes & Séries",Megapix SD
+#EXTINF:-1 tvg-id="Megapix SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/megapix.png" group-title="Filmes & Séries",Megapix SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/69.m3u8
 
-#EXTINF:-1 tvg-id="MTV SD" tvg-logo="https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/04/CLA_MTV_640x455_.gif" group-title="Filmes & Séries",MTV SD
+#EXTINF:-1 tvg-id="MTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Filmes & Séries",MTV SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/68.m3u8
 
-#EXTINF:-1 tvg-id="Paramount HD" tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2014/06/Paramount-channel.jpeg" group-title="Filmes & Séries",Paramount HD
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Séries",Canal Brasil SD
+http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/68.m3u8
+
+#EXTINF:-1 tvg-id="Paramount HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/paramount.png" group-title="Filmes & Séries",Paramount HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/155.m3u8
 
-#EXTINF:-1 tvg-id="Paramount SD" tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2014/06/Paramount-channel.jpeg" group-title="Filmes & Séries",Paramount SD
+#EXTINF:-1 tvg-id="Paramount SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/paramount.png" group-title="Filmes & Séries",Paramount SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/57.m3u8
 
-#EXTINF:-1 tvg-id="Sony HD" tvg-logo="http://i.imgur.com/z54VOIV.jpg" group-title="Filmes & Séries",Sony HD
+#EXTINF:-1 tvg-id="Sony HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sony.png" group-title="Filmes & Séries",Sony HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/190.m3u8
 
-#EXTINF:-1 tvg-id="Sony SD" tvg-logo="http://i.imgur.com/z54VOIV.jpg" group-title="Filmes & Séries",Sony SD
+#EXTINF:-1 tvg-id="Sony SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sony.png" group-title="Filmes & Séries",Sony SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/118.m3u8
 
-#EXTINF:-1 tvg-id="Space HD" tvg-logo="http://i.imgur.com/LRQgfjv.png" group-title="Filmes & Séries",Space HD
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/space.png" group-title="Filmes & Séries",Space HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/146.m3u8
 
-#EXTINF:-1 tvg-id="Space SD" tvg-logo="http://i.imgur.com/LRQgfjv.png" group-title="Filmes & Séries",Space SD
+#EXTINF:-1 tvg-id="Space SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/space.png" group-title="Filmes & Séries",Space SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/32.m3u8
 
-#EXTINF:-1 tvg-id="Syfy SD" tvg-logo="https://lh6.googleusercontent.com/-DoGlXfPppTk/AAAAAAAAAAI/AAAAAAAADGI/-5pR7_q89_w/s0-c-k-no-ns/photo.jpg" group-title="Filmes & Séries",Syfy SD
+#EXTINF:-1 tvg-id="Syfy SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/syfy.png" group-title="Filmes & Séries",Syfy SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/25.m3u8
 
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="http://i.imgur.com/jzD5NE7.jpg" group-title="Filmes & Séries",Studio Universal HD
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/studio_universal.png" group-title="Filmes & Séries",Studio Universal HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/26.m3u8
 
-#EXTINF:-1 tvg-id="TBS HD" tvg-logo="http://i.imgur.com/73aVuQI.png" group-title="Filmes & Séries",TBS HD
+#EXTINF:-1 tvg-id="TBS HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tbs.png" group-title="Filmes & Séries",TBS HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/142.m3u8
 
-#EXTINF:-1 tvg-id="TBS SD" tvg-logo="http://i.imgur.com/73aVuQI.png" group-title="Filmes & Séries",TBS SD
+#EXTINF:-1 tvg-id="TBS SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tbs.png" group-title="Filmes & Séries",TBS SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/24.m3u8
 
-#EXTINF:-1 tvg-id="TCM SD" tvg-logo="http://4.bp.blogspot.com/-Q3d2ZmA8BfI/VjkoObk9wVI/AAAAAAAAlws/CNjBliblMuw/s1600/TCM_novologo.png" group-title="Filmes & Séries",TCM SD
+#EXTINF:-1 tvg-id="TCM SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tcm.png" group-title="Filmes & Séries",TCM SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/23.m3u8
 
-#EXTINF:-1 tvg-id="TNT HD" tvg-logo="http://appsclaro.com/canales/logos/tnt.jpg" group-title="Filmes & Séries",TNT HD
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt.png" group-title="Filmes & Séries",TNT HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/136.m3u8
 
-#EXTINF:-1 tvg-id="TNT SD" tvg-logo="http://appsclaro.com/canales/logos/tnt.jpg" group-title="Filmes & Séries",TNT SD
+#EXTINF:-1 tvg-id="TNT SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt.png" group-title="Filmes & Séries",TNT SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/13.m3u8
 
-#EXTINF:-1 tvg-id="TNT Series HD" tvg-logo="http://i.imgur.com/H2mL3f8.png" group-title="Filmes & Séries",TNT Series HD
+#EXTINF:-1 tvg-id="TNT Series HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt_series.png" group-title="Filmes & Séries",TNT Series HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/135.m3u8
 
-#EXTINF:-1 tvg-id="TNT Series SD" tvg-logo="http://i.imgur.com/H2mL3f8.png" group-title="Filmes & Séries",TNT Series SD
+#EXTINF:-1 tvg-id="TNT Series SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt_series.png" group-title="Filmes & Séries",TNT Series SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/12.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-logo="http://i.imgur.com/rSy5Xaf.jpg" group-title="Filmes & Séries",Telecine Action HD
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_action.png" group-title="Filmes & Séries",Telecine Action HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/141.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Action SD" tvg-logo="http://i.imgur.com/rSy5Xaf.jpg" group-title="Filmes & Séries",Telecine Action SD
+#EXTINF:-1 tvg-id="Telecine Action SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_action.png" group-title="Filmes & Séries",Telecine Action SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/22.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-logo="http://i.imgur.com/QyLd3Kw.jpg" group-title="Filmes & Séries",Telecine Pipoca HD
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_pipoca.png" group-title="Filmes & Séries",Telecine Pipoca HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/139.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-logo="http://i.imgur.com/QyLd3Kw.jpg" group-title="Filmes & Séries",Telecine Pipoca SD
+#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_pipoca.png" group-title="Filmes & Séries",Telecine Pipoca SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/19.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-logo="http://i.imgur.com/nmCgymk.jpg" group-title="Filmes & Séries",Telecine Premium HD
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_premium.png" group-title="Filmes & Séries",Telecine Premium HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/138.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Premium SD" tvg-logo="http://i.imgur.com/nmCgymk.jpg" group-title="Filmes & Séries",Telecine Premium SD
+#EXTINF:-1 tvg-id="Telecine Premium SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_premium.png" group-title="Filmes & Séries",Telecine Premium SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/18.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-logo="http://i.imgur.com/QT74hG9.jpg" group-title="Filmes & Séries",Telecine Fun HD
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_fun.png" group-title="Filmes & Séries",Telecine Fun HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/140.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-logo="http://i.imgur.com/QT74hG9.jpg" group-title="Filmes & Séries",Telecine Fun SD
+#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_fun.png" group-title="Filmes & Séries",Telecine Fun SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/20.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Cult SD" tvg-logo="http://i.imgur.com/ucPfnaA.jpg" group-title="Filmes & Séries",Telecine Cult SD
+#EXTINF:-1 tvg-id="Telecine Cult SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_cult.png" group-title="Filmes & Séries",Telecine Cult SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/21.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-logo="http://i.imgur.com/8klW03y.jpg" group-title="Filmes & Séries",Telecine Touch HD
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_touch.png" group-title="Filmes & Séries",Telecine Touch HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/137.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Touch SD" tvg-logo="http://i.imgur.com/8klW03y.jpg" group-title="Filmes & Séries",Telecine Touch SD
+#EXTINF:-1 tvg-id="Telecine Touch SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_touch.png" group-title="Filmes & Séries",Telecine Touch SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/17.m3u8
 
-#EXTINF:-1 tvg-id="Universal Channel HD" tvg-logo="http://i.imgur.com/HUy1oon.jpg" group-title="Filmes & Séries",Universal Channel HD
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/universal_channel.png" group-title="Filmes & Séries",Universal Channel HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/134.m3u8
 
-#EXTINF:-1 tvg-id="Universal Channel SD" tvg-logo="http://i.imgur.com/HUy1oon.jpg" group-title="Filmes & Séries",Universal Channel SD
+#EXTINF:-1 tvg-id="Universal Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/universal_channel.png" group-title="Filmes & Séries",Universal Channel SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/5.m3u8
 
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkcc_zFmkN7JbazkTxfR6EXiHo8vr1vuDRzO9IfG0ML8aP8wf-" group-title="Filmes & Séries",Warner Channel HD
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/warner_channel.png" group-title="Filmes & Séries",Warner Channel HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/580.m3u8
 
-#EXTINF:-1 tvg-id="Warner Channel SD" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkcc_zFmkN7JbazkTxfR6EXiHo8vr1vuDRzO9IfG0ML8aP8wf-" group-title="Filmes & Séries",Warner Channel SD
+#EXTINF:-1 tvg-id="Warner Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/warner_channel.png" group-title="Filmes & Séries",Warner Channel SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/2.m3u8
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="Cartoon Network SD" tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png" group-title="Infantil",Cartoon Network SD
+#EXTINF:-1 tvg-id="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/116.m3u8
 
-#EXTINF:-1 tvg-id="Boomerang SD" tvg-logo="http://www.underconsideration.com/brandnew/archives/boomerang_logo_detail.png" group-title="Infantil",Boomerang SD
+#EXTINF:-1 tvg-id="Boomerang SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/boomerang.png" group-title="Infantil",Boomerang SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/121.m3u8
 
-#EXTINF:-1 tvg-id="Disney Channel SD" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/uk_disneychannel_contenttoolbar_videoportal_75f636ea.jpeg" group-title="Infantil",Disney Channel SD
+#EXTINF:-1 tvg-id="Disney Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/105.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Kids SD" tvg-logo="https://lh6.googleusercontent.com/-ElwZc-hojPY/AAAAAAAAAAI/AAAAAAAACpA/0GPx8xiclhk/s0-c-k-no-ns/photo.jpg" group-title="Infantil",Discovery Kids SD
+#EXTINF:-1 tvg-id="Discovery Kids SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/108.m3u8
 
-#EXTINF:-1 tvg-id="Disney Junior SD" tvg-logo="http://abusymommy.com/wp-content/uploads/2013/03/Disney-Junior.jpg" group-title="Infantil",Disney Junior SD
+#EXTINF:-1 tvg-id="Disney Junior SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_junior.png" group-title="Infantil",Disney Junior SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/104.m3u8
 
-#EXTINF:-1 tvg-id="Disney XD SD" tvg-logo="https://canalfreak.cl/wp-content/uploads/2014/08/image0011.jpg" group-title="Infantil",Disney XD SD
+#EXTINF:-1 tvg-id="Disney XD SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_xd.png" group-title="Infantil",Disney XD SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/103.m3u8
 
-#EXTINF:-1 tvg-id="Gloob SD" tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="Infantil",Gloob SD
+#EXTINF:-1 tvg-id="Gloob SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/87.m3u8
 
-#EXTINF:-1 tvg-id="Nick Junior SD" tvg-logo="https://static1.squarespace.com/static/52efbedde4b02c6bcd882527/t/587dee4a1b631be781cad445/1484647847697/nick-jr.jpeg" group-title="Infantil",Nick Junior SD
+#EXTINF:-1 tvg-id="Nick Junior SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick_jr.png" group-title="Infantil",Nick Junior SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/61.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon SD" tvg-logo="https://lh6.googleusercontent.com/-xVTi85ayBuY/AAAAAAAAAAI/AAAAAAAAbg0/g7EK74gE0FQ/s0-c-k-no-ns/photo.jpg" group-title="Infantil",Nickelodeon SD
+#EXTINF:-1 tvg-id="Nickelodeon SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/60.m3u8
 
-#EXTINF:-1 tvg-id="Tooncast SD" tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/tooncast.png" group-title="Infantil",Tooncast SD
+#EXTINF:-1 tvg-id="Tooncast SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tooncast.png" group-title="Infantil",Tooncast SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/11.m3u8
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="AcriticaPlay HD" tvg-logo="http://i.imgur.com/e38z4KX.jpg" group-title="Jornalismo",AcriticaPlay HD
+#EXTINF:-1 tvg-id="AcriticaPlay HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/acriticaplay.png" group-title="Jornalismo",AcriticaPlay HD
 http://iphone-streaming.ustream.tv:80/uhls/22972089/streams/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Band HD" tvg-logo="http://i.imgur.com/ENDGIbS.jpg" group-title="Jornalismo",Band HD
+#EXTINF:-1 tvg-id="Band HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/193.m3u8
 
-#EXTINF:-1 tvg-id="Band SD" tvg-logo="http://i.imgur.com/ENDGIbS.jpg" group-title="Jornalismo",Band SD
+#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/124.m3u8
 
-#EXTINF:-1 tvg-id="Band News SD" tvg-logo="https://www.brandeps.com/logo-download/B/Band-News-TV-01.png" group-title="Jornalismo",Band News SD
+#EXTINF:-1 tvg-id="Band News SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band_news.png" group-title="Jornalismo",Band News SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/126.m3u8
 
-#EXTINF:-1 tvg-id="BH News TV SD" tvg-logo="http://blog.chicomaia.com.br/wordpress/wp-content/uploads/2011/03/BHNEWS2.jpg" group-title="Jornalismo",BH News TV SD
+#EXTINF:-1 tvg-id="BH News TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bhnews_tv.png" group-title="Jornalismo",BH News TV SD
 http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GloboNews SD" tvg-logo="http://s.videos.globo.com/pr/311_206.jpg" group-title="Jornalismo",GloboNews SD
+#EXTINF:-1 tvg-id="GloboNews SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globonews.png" group-title="Jornalismo",GloboNews SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/88.m3u8
 
-#EXTINF:-1 tvg-id="Globo Premium SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo Premium SD
+#EXTINF:-1 tvg-id="Globo Premium SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globo_premium.png" group-title="Jornalismo",Globo Premium SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/449.m3u8
 
-#EXTINF:-1 tvg-id="Globo RJ HD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo RJ HD
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globo_rj.png" group-title="Jornalismo",Globo RJ HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/170.m3u8
 
-#EXTINF:-1 tvg-id="Globo RJ SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo RJ SD
+#EXTINF:-1 tvg-id="Globo RJ SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globo_rj.png" group-title="Jornalismo",Globo RJ SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/1448.m3u8
 
-#EXTINF:-1 tvg-id="Globo SP SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",Globo SP SD
+#EXTINF:-1 tvg-id="Globo SP SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globo_sp.png" group-title="Jornalismo",Globo SP SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/89.m3u8
 
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre SD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/03/globo.png" group-title="Jornalismo",RBS TV Porto Alegre SD
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/rbstv.png" group-title="Jornalismo",RBS TV Porto Alegre SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/43.m3u8
 
-#EXTINF:-1 tvg-id="Record HD" tvg-logo="https://rd1.com.br/wp-content/uploads/2014/11/record_novo_logo.png" group-title="Jornalismo",Record HD
+#EXTINF:-1 tvg-id="Record HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record.png" group-title="Jornalismo",Record HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/149.m3u8
 
-#EXTINF:-1 tvg-id="Record SD" tvg-logo="https://rd1.com.br/wp-content/uploads/2014/11/record_novo_logo.png" group-title="Jornalismo",Record SD
+#EXTINF:-1 tvg-id="Record SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record.png" group-title="Jornalismo",Record SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/41.m3u8
 
-#EXTINF:-1 tvg-id="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-vertical-2016.jpg" group-title="Jornalismo",Record News SD
+#EXTINF:-1 tvg-id="Record News SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record_news.png" group-title="Jornalismo",Record News SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/42.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV HD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/xx-35.jpg" group-title="Jornalismo",RedeTV HD
+#EXTINF:-1 tvg-id="RedeTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/redetv.png" group-title="Jornalismo",RedeTV HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/148.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV SD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/xx-35.jpg" group-title="Jornalismo",RedeTV SD
+#EXTINF:-1 tvg-id="RedeTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/redetv.png" group-title="Jornalismo",RedeTV SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/39.m3u8
 
-#EXTINF:-1 tvg-id="SBT HD" tvg-logo="http://www.sbt.com.br/images/logos_wide/logosbt_og.jpg" group-title="Jornalismo",SBT HD
+#EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sbt.png" group-title="Jornalismo",SBT HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/147.m3u8
 
-#EXTINF:-1 tvg-id="SBT SD" tvg-logo="http://www.sbt.com.br/images/logos_wide/logosbt_og.jpg" group-title="Jornalismo",SBT SD
+#EXTINF:-1 tvg-id="SBT SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sbt.png" group-title="Jornalismo",SBT SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/36.m3u8
 
-#EXTINF:-1 tvg-id="TV Cultura HD" tvg-logo="https://lh5.googleusercontent.com/-qvQBX1qKh6o/AAAAAAAAAAI/AAAAAAAAtRM/FxrbA0VuTUI/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",TV Cultura HD
+#EXTINF:-1 tvg-id="TV Cultura HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tvcultura.png" group-title="Jornalismo",TV Cultura HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/564.m3u8
 
-#EXTINF:-1 tvg-id="TV Cultura SD" tvg-logo="https://lh5.googleusercontent.com/-qvQBX1qKh6o/AAAAAAAAAAI/AAAAAAAAtRM/FxrbA0VuTUI/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",TV Cultura SD
+#EXTINF:-1 tvg-id="TV Cultura SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tvcultura.png" group-title="Jornalismo",TV Cultura SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/8.m3u8
 
-#EXTINF:-1 tvg-id="TV Clima HD" tvg-logo="http://i.imgur.com/UbSDSqL.png" group-title="Jornalismo",TV Clima HD
-http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
-
-#EXTINF:-1 tvg-id="TV Escola HD" tvg-logo="https://yt3.ggpht.com/-ing2K4ksoA8/AAAAAAAAAAI/AAAAAAAAAAA/w2R6ALTfP_M/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Jornalismo",TV Escola HD
+#EXTINF:-1 tvg-id="TV Escola HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tvescola.png" group-title="Jornalismo",TV Escola HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/565.m3u8
 
-#EXTINF:-1 tvg-id="TV Futura SD" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Jornalismo",TV Futura SD
+#EXTINF:-1 tvg-id="TV Futura SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalfutura.png" group-title="Jornalismo",TV Futura SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/91.m3u8
 
-#EXTINF:-1 tvg-id="TV Gazeta HD" tvg-logo="https://pbs.twimg.com/profile_images/706853204059938816/EwRD_yZf.jpg" group-title="Jornalismo",TV Gazeta HD
+#EXTINF:-1 tvg-id="TV Gazeta HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tvgazeta.png" group-title="Jornalismo",TV Gazeta HD
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
-#EXTINF:-1 tvg-id="TV Gazeta SD" tvg-logo="https://pbs.twimg.com/profile_images/706853204059938816/EwRD_yZf.jpg" group-title="Jornalismo",TV Gazeta SD
+#EXTINF:-1 tvg-id="TV Gazeta SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tvgazeta.png" group-title="Jornalismo",TV Gazeta SD
 http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Ponta Negra News SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ec/Logotipo_TV_Ponta_Negra.jpg" group-title="Jornalismo",TV Ponta Negra News SD
+#EXTINF:-1 tvg-id="TV Ponta Negra News SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tvpontanegra.png" group-title="Jornalismo",TV Ponta Negra News SD
 http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
 
-#EXTINF:-1 tvg-id="TV Tem Sorocaba SD" tvg-logo="http://i.imgur.com/NvcE4Kx.png" group-title="Jornalismo",TV Tem Sorocaba SD
+#EXTINF:-1 tvg-id="TV Tem Sorocaba SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tvtem.png" group-title="Jornalismo",TV Tem Sorocaba SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/1447.m3u8
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://lh6.googleusercontent.com/-MYSr-RpXBlQ/AAAAAAAAAAI/AAAAAAAA64E/h6YyhpvhdIE/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",Viva HD
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/viva.png" group-title="Jornalismo",Viva HD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/133.m3u8
 
-#EXTINF:-1 tvg-id="Viva SD" tvg-logo="https://lh6.googleusercontent.com/-MYSr-RpXBlQ/AAAAAAAAAAI/AAAAAAAA64E/h6YyhpvhdIE/s0-c-k-no-ns/photo.jpg" group-title="Jornalismo",Viva SD
+#EXTINF:-1 tvg-id="Viva SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/viva.png" group-title="Jornalismo",Viva SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/3.m3u8
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="1HD Music HD" tvg-logo="https://pbs.twimg.com/profile_images/581384485519921152/mqoXATjw.jpg" group-title="Músicas",1HD Music HD
+#EXTINF:-1 tvg-id="1HD Music HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/1hd.png" group-title="Músicas",1HD Music HD
 http://80.250.191.10:1935/live/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DJing Ibiza SD" tvg-logo="http://www.djing.com/img/facebook.png" group-title="Músicas",DJing Ibiza SD
+#EXTINF:-1 tvg-id="DJing Ibiza SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/djing.png" group-title="Músicas",DJing Ibiza SD
 http://www.djing.com/tv/04.m3u8
 
-#EXTINF:-1 tvg-id="Gospel Music Television SD" tvg-logo="http://i.imgur.com/uDRiNIJ.png" group-title="Músicas",Gospel Music Television SD
+#EXTINF:-1 tvg-id="Gospel Music Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gospelmusic_tv.png" group-title="Músicas",Gospel Music Television SD
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
 
-#EXTINF:-1 tvg-id="Heart TV SD" tvg-logo="http://radiotoday.co.uk/wp-content/uploads/2015/02/6heartv.jpg" group-title="Músicas",Heart TV SD
+#EXTINF:-1 tvg-id="Heart TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/heartv.png" group-title="Músicas",Heart TV SD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Hit TV SD" tvg-logo="http://www.vertele.com/files/2015/12/hit-tv-veinte.jpg" group-title="Músicas",Hit TV SD
+#EXTINF:-1 tvg-id="Hit TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hittv.png" group-title="Músicas",Hit TV SD
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime SD" tvg-logo="http://www.mylifetimetv.ca/images/mylifetimetvlogoog.jpg" group-title="Músicas",Lifetime SD
+#EXTINF:-1 tvg-id="Lifetime SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/lifetime.png" group-title="Músicas",Lifetime SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/75.m3u8
 
-#EXTINF:-1 tvg-id="MIMUSICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMmKouwJ3X21lhMldN9sG288uuxDINIj4M5B7w3M3UKIqDFJJ" group-title="Músicas",MIMUSICA HD
+#EXTINF:-1 tvg-id="MIMUSICA HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mimusica.png" group-title="Músicas",MIMUSICA HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="Mix TV SD" tvg-logo="http://i.imgur.com/3kG1zEA.png" group-title="Músicas",Mix TV SD
+#EXTINF:-1 tvg-id="Mix TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mixtv.png" group-title="Músicas",Mix TV SD
 http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Muz TV SD" tvg-logo="http://www.frocus.net/images/logotv/original/muz-tv-moldova.jpg" group-title="Músicas",Muz TV SD
+#EXTINF:-1 tvg-id="Muz TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/muztv.png" group-title="Músicas",Muz TV SD
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
-#EXTINF:-1 tvg-id="Radio Monte Carlo SD" tvg-logo="http://oi67.tinypic.com/b5fhmu.jpg" group-title="Músicas",Radio Monte Carlo SD
+#EXTINF:-1 tvg-id="Radio Monte Carlo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/radiomontecarlo.png" group-title="Músicas",Radio Monte Carlo SD
 http://fms.105.net:1935/live/rmc1/chunklist_w1660735550.m3u8
 
-#EXTINF:-1 tvg-id="SLAM TV HD" tvg-logo="http://www.slam.nl/live/background//slam_600x374.jpg" group-title="Músicas",SLAM TV HD
+#EXTINF:-1 tvg-id="SLAM TV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/slam.png" group-title="Músicas",SLAM TV HD
 http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
 
-#EXTINF:-1 tvg-id="Virgin TV SD" tvg-logo="http://www.digital-news.it/UserFiles/virgin-radio-tv.jpg" group-title="Músicas",Virgin TV SD
+#EXTINF:-1 tvg-id="Virgin TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/virgintv.png" group-title="Músicas",Virgin TV SD
 http://wow01.105.net/live/virgin1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VH1 MegaHits SD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/11/net-substituira-canal-vh1-pelo-vh1-mega-hits.jpg" group-title="Músicas",VH1 MegaHits SD
+#EXTINF:-1 tvg-id="VH1 MegaHits SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/vh1.png" group-title="Músicas",VH1 MegaHits SD
 http://mundogf.dyndns.tv:25461/live/srvitorr/@srrrvitor/4.m3u8
 
 #################################################################################
