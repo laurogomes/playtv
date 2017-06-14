@@ -8,7 +8,7 @@ $(function(){
       var category = toSlug(item.params['group-title']);
 
       channel += '<div class="channels__item '+category+'" data-remodal-target="modal" data-link="'+link+'">';
-      channel += '<div class="channels__item-image"><img src="'+image+'" alt="'+title+'"></div>';
+      channel += '<div class="channels__item-image"><img src="'+image+'" width="200" alt="'+title+'"></div>';
       channel += '<h3 class="channels__item-title">'+title+'</h3>';
       channel += '</div>';
     });
