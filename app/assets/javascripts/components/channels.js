@@ -9,7 +9,7 @@ $(function(){
 
       channel += '<div class="channels__item '+category+'" data-remodal-target="modal" data-link="'+link+'">';
       channel += '<div class="channels__item-image"><img src="'+image+'" alt="'+title+'"></div>';
-      channel += '<div class="channels__item-description">'+title+'</div>';
+      channel += '<h3 class="channels__item-title">'+title+'</h3>';
       channel += '</div>';
     });
     $('.channels__list').html(channel);
