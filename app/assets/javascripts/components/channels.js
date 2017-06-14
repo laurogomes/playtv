@@ -2,7 +2,7 @@ $(function(){
   $.get('playtv.m3u', function(data) {
     var channel = '';
     $.each(parseM3U(data).tracks, function(i, item) {
-      var link = item.file;
+      var link = (item.file).replace(/\.[^\.]+$/, '.m3u8');
       var title = item.title;
       var image = item.params['tvg-logo'];
       var category = toSlug(item.params['group-title']);
