@@ -103,3 +103,17 @@ function truncate(str, num) {
     return str+'...';
   }
 }
+
+function debounce(fn, threshold) {
+  var timeout;
+  return function debounced() {
+    if (timeout) {
+      clearTimeout(timeout);
+    }
+    function delayed() {
+      fn();
+      timeout = null;
+    }
+    setTimeout(delayed, threshold || 100);
+  };
+}

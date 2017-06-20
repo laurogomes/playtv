@@ -5,47 +5,70 @@ body
     .header,
     .footer,
       background-color: $color-menu-01
-    .header__link
+    .header__search-icon
       color: $color-menu-01
+    .header__search-input
+      color: $color-menu-01
+      +placeholder
+        color: $color-menu-01
   &.documentarios
     .header,
     .footer,
       background-color: $color-menu-02
-    .header__link
+    .header__search-icon
       color: $color-menu-02
+    .header__search-input
+      color: $color-menu-02
+      +placeholder
+        color: $color-menu-02
   &.esportes
     .header,
     .footer,
       background-color: $color-menu-03
-    .header__link
+    .header__search-icon
       color: $color-menu-03
+    .header__search-input
+      color: $color-menu-03
+      +placeholder
+        color: $color-menu-03
   &.filmesseries
     .header,
     .footer,
       background-color: $color-menu-04
-    .header__link
+    .header__search-icon
       color: $color-menu-04
+    .header__search-input
+      color: $color-menu-04
+      +placeholder
+        color: $color-menu-04
   &.infantil
     .header,
     .footer,
       background-color: $color-menu-05
-    .header__link
+    .header__search-icon
       color: $color-menu-05
+    .header__search-input
+      color: $color-menu-05
+      +placeholder
+        color: $color-menu-05
   &.musicas
     .header,
     .footer,
       background-color: $color-menu-06
-    .header__link
+    .header__search-icon
       color: $color-menu-06
+    .header__search-input
+      color: $color-menu-06
+      +placeholder
+        color: $color-menu-06
 
 .header
   top: 0
   left: 0
-  width: 100%
   z-index: 10
+  width: 100%
   position: fixed
   background-color: $color-primary
-  // box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)
   +transition(300ms)
 
   &.fixed
@@ -62,44 +85,52 @@ body
     align-items: center
     justify-content: center
 
+    +bp(sm)
+      justify-content: space-between
+
+    +bp(xl)
+      justify-content: space-around
+
+  &__search
+    width: 100%
+    display: none
+    position: relative
+
+    +bp(sm)
+      display: block
+      max-width: 250px
+
+    +bp(md)
+      max-width: 300px
+
+    &-input
+      border: 0
+      outline: 0
+      width: 100%
+      padding: 12px
+      font-size: 20px
+      font-weight: normal
+      color: $color-primary
+      background-color: $white
+
+      +placeholder
+        color: $color-primary
+
+    &-icon
+      top: 0
+      right: 12px
+      bottom: 0
+      width: 20px
+      height: 20px
+      margin: auto
+      position: absolute
+      color: $color-primary
+
   &__logo
     color: $white
     width: 222px
     height: 53px
     display: block
-
-  &__link
-    top: 0
-    right: 15px
-    bottom: 0
-    margin: auto
-    height: 35px
-    display: none
-    font-size: 20px
-    overflow: hidden
-    line-height: 24px
-    padding: 5px 10px
-    font-weight: bold
-    font-style: italic
-    border-radius: 5px
-    position: absolute
-    color: $color-primary
-    background-color: $white
-    +transition(300ms)
-
-    +bp(lg)
-      display: block
-
-    span
-      margin-right: 10px
-      display: inline-block
-      vertical-align: bottom
-
-    &-icon
-      width: 20px
-      height: 20px
-      display: inline-block
-      vertical-align: bottom
 
   &__menu
     user-select: none
@@ -112,14 +143,20 @@ body
       text-align: center
       position: relative
       align-items: center
+      justify-content: center
 
       +bp(lg)
+        justify-content: space-around
+
+      +bp(xl)
         justify-content: center
 
       li + li
         margin-left: 30px
 
     &-item
+      border: 0
+      outline: 0
       color: $white
       display: block
       font-size: 18px
@@ -127,6 +164,8 @@ body
       position: relative
       white-space: nowrap
       text-transform: uppercase
+      font-family: $font-primary
+      background-color: transparent
 
       +bp(lg)
         &:hover:before

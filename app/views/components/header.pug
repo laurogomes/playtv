@@ -3,24 +3,25 @@ header.header
     .header__content
       svg.header__logo
         use(xlink:href="#logo")
-      //- .header__link
-        span #{iptv_url}
-        svg.header__link-icon
-          use(xlink:href="#icon-link")
+      .header__search
+        input.header__search-input(type="search", placeholder="Pesquisar...")
+        svg.header__search-icon
+          use(xlink:href="#icon-search")
 
     nav.header__menu
       ul.header__menu-list
         li
-          a.header__menu-item.active(href="#", data-filter="*") Todos
+          button.header__menu-item.active(href="#", data-filter="*") Todos
         li
-          a.header__menu-item(href="#", data-filter=".documentarios") Documentarios
+          button.header__menu-item(href="#", data-filter=".documentarios") Documentarios
         li
-          a.header__menu-item(href="#", data-filter=".esportes") Esportes
+          button.header__menu-item(href="#", data-filter=".esportes") Esportes
         li
-          a.header__menu-item(href="#", data-filter=".filmesseries") Filmes & Series
+          button.header__menu-item(href="#", data-filter=".filmesseries") Filmes & Series
         li
-          a.header__menu-item(href="#", data-filter=".infantil") Infantil
+          button.header__menu-item(href="#", data-filter=".infantil") Infantil
         li
-          a.header__menu-item(href="#", data-filter=".jornalismo") Jornalismo
+          button.header__menu-item(href="#", data-filter=".jornalismo") Jornalismo
         li
-          a.header__menu-item(href="#", data-filter=".musicas") Musicas
+          button.header__menu-item(href="#", data-filter=".musicas") Musicas
+
