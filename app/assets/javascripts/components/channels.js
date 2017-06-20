@@ -23,7 +23,6 @@ $(function(){
       layoutMode: 'fitRows',
       filter: function() {
         var $this = $(this);
-        console.log($this.text().match(qsRegex));
         var searchResult = qsRegex ? $this.text().match(qsRegex): true;
         var buttonResult = buttonFilter ? $this.is(buttonFilter): true;
         return searchResult && buttonResult;
