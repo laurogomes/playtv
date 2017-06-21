@@ -62,7 +62,12 @@ $(function(){
         height: 'auto',
         autoPlay: true,
         parentId: '#modal-content',
-        disableVideoTagContextMenu: true
+        disableVideoTagContextMenu: true,
+        hlsjsConfig: {
+          xhrSetup: (xhr) => {
+            xhr.withCredentials = false;
+          }
+        }
       });
     });
 
