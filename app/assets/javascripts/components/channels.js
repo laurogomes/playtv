@@ -64,7 +64,7 @@ $(function(){
         parentId: '#modal-content',
         disableVideoTagContextMenu: true,
         hlsjsConfig: {
-          xhrSetup: (xhr) => {
+          xhrSetup: function(xhr) {
             xhr.withCredentials = false;
           }
         }
