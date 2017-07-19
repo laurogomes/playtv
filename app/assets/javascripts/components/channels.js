@@ -68,7 +68,7 @@ $(function(){
         // mimeType: 'application/x-mpegURL',
         // hlsjsConfig: {
         //   xhrSetup: function(xhr, url) {
-        //     xhr.withCredentials = false;
+        //     xhr.withCredentials = true;
         //   }
         // },
         // playbackConfig: {
