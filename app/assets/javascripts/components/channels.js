@@ -61,13 +61,19 @@ $(function(){
         width: '100%',
         height: 'auto',
         autoPlay: true,
+        // actualLiveTime: true,
+        // flushLiveURLCache: true,
         parentId: '#modal-content',
         disableVideoTagContextMenu: true,
-        hlsjsConfig: {
-          xhrSetup: function(xhr) {
-            xhr.withCredentials = false;
-          }
-        }
+        // mimeType: 'application/x-mpegURL',
+        // hlsjsConfig: {
+        //   xhrSetup: function(xhr, url) {
+        //     xhr.withCredentials = false;
+        //   }
+        // },
+        // playbackConfig: {
+        //   crossorigin: 'use-credentials'
+        // }
       });
     });
 
