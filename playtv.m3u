@@ -86,7 +86,8 @@ http://lista.sv1.tv:25461/live/drade30/3030/1856.ts
 http://lista.sv1.tv:25461/live/drade30/3030/1844.ts
 
 #EXTINF:-1 tvg-id="Combate SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate SD
-http://lista.sv1.tv:25461/live/drade30/3030/1845.ts
+###http://lista.sv1.tv:25461/live/drade30/3030/1845.ts
+http://starbr.digitalgroup.me:15000/live/5338/5338/1089.ts
 
 #EXTINF:-1 tvg-id="EI Maxx HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx.png" group-title="Esportes",EI Maxx HD
 http://lista.sv1.tv:25461/live/drade30/3030/1825.ts
