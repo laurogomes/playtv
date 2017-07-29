@@ -88,6 +88,18 @@ http://lista.sv1.tv:25461/live/drade30/3030/1844.ts
 #EXTINF:-1 tvg-id="Combate SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate SD
 http://lista.sv1.tv:25461/live/drade30/3030/1845.ts
 
+#EXTINF:-1 tvg-id="Combate HD 2" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate HD 2
+http://painel.tvdigitalsbl.net:8081/live/marceloxaviier/KHStmuUmWo/451.ts
+
+#EXTINF:-1 tvg-id="Combate SD 2" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate SD 2
+http://painel.tvdigitalsbl.net:8081/live/marceloxaviier/KHStmuUmWo/114.ts
+
+#EXTINF:-1 tvg-id="Combate HD 3" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate HD 3
+http://starbr.digitalgroup.me:15000/live/5338/5338/1088.ts
+
+#EXTINF:-1 tvg-id="Combate SD 3" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate SD 3
+http://starbr.digitalgroup.me:15000/live/5338/5338/1089.ts
+
 #EXTINF:-1 tvg-id="EI Maxx HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx.png" group-title="Esportes",EI Maxx HD
 http://lista.sv1.tv:25461/live/drade30/3030/1825.ts
 
