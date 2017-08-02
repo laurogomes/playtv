@@ -61,10 +61,16 @@ $(function(){
         source: {
           hls: link,
           poster: image,
-          options: {
-            hlsWithCredentials: true,
-            hlsManifestWithCredentials: true,
-          }
+          // options: {
+          //   withCredentials: true,
+          //   manifestWithCredentials: true,
+          //   hlsWithCredentials: true,
+          //   hlsManifestWithCredentials: true,
+          // },
+          vr: {
+            contentType: 'single',
+            cardboard: 'CghSZWQgQnVsbBILUmVkIEJ1bGwgVlId7FE4PSWPwnU9KhAAAEhCAABIQgAASEIAAEhCWAA1KVwPPToICtcjPArXIzxQAGAC',
+          },
         },
         style: {
           width: '100%',
@@ -74,10 +80,6 @@ $(function(){
         },
         cast: {
           enable: true,
-        },
-        vr: {
-          contentType: 'single',
-          // cardboard: 'CghSZWQgQnVsbBILUmVkIEJ1bGwgVlId7FE4PSWPwnU9KhAAAEhCAABIQgAASEIAAEhCWAA1KVwPPToICtcjPArXIzxQAGAC',
         },
         logs: {
           bitmovin: false,
