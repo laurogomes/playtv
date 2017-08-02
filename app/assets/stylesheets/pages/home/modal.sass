@@ -54,10 +54,12 @@
     width: 100%
     position: relative
 
-    [data-player]
-      +fluid-video
+    .bitmovinplayer-container
+      // +fluid-video
 
-    .player-poster[data-poster]
+    .bitmovinplayer-poster
       background-color: $white
-      background-size: initial
-      background-position: center
+      background-size: initial !important
+
+    .bmpui-ui-watermark
+      display: none

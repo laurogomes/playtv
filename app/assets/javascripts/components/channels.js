@@ -52,33 +52,43 @@ $(function(){
       $channels.isotope();
     });
 
+    var player;
     $('.channels__list').on('click', '.channels__item', function(event) {
       var link = $(this).attr('data-link');
       var image = $(this).find('img').attr('src');
-      var player = new Clappr.Player({
-        source: link,
-        poster: image,
-        width: '100%',
-        height: 'auto',
-        autoPlay: true,
-        // actualLiveTime: true,
-        // flushLiveURLCache: true,
-        parentId: '#modal-content',
-        disableVideoTagContextMenu: true,
-        // mimeType: 'application/x-mpegURL',
-        // hlsjsConfig: {
-        //   xhrSetup: function(xhr, url) {
-        //     xhr.withCredentials = true;
-        //   }
-        // },
-        // playbackConfig: {
-        //   crossorigin: 'use-credentials'
-        // }
-      });
+      var config = {
+        key: '55fcf315-8dc9-41fe-82a1-1f32bead1571',
+        source: {
+          hls: link,
+          poster: image,
+          options: {
+            hlsWithCredentials: true,
+            hlsManifestWithCredentials: true,
+          }
+        },
+        style: {
+          width: '100%',
+        },
+        playback: {
+          autoplay: true,
+        },
+        cast: {
+          enable: true,
+        },
+        vr: {
+          contentType: 'single',
+          // cardboard: 'CghSZWQgQnVsbBILUmVkIEJ1bGwgVlId7FE4PSWPwnU9KhAAAEhCAABIQgAASEIAAEhCWAA1KVwPPToICtcjPArXIzxQAGAC',
+        },
+        logs: {
+          bitmovin: false,
+        },
+      };
+      player = bitmovin.player('modal-content');
+      player.setup(config);
     });
 
     $(document).on('closed', '.modal', function() {
-      $('.modal__content').html('');
+      player.destroy();
     });
   });
 });

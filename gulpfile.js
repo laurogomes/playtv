@@ -74,7 +74,7 @@ gulp.task('styles', function() {
   .pipe($.sass.sync({
     precision: 10,
     outputStyle: 'expanded',
-    includePaths: [path.base.vendors, path.base.styles]
+    includePaths: [path.base.vendors, path.base.modules, path.base.styles]
   }).on('error', onError))
   .pipe($.autoprefixer({browsers: ['> 1%', 'last 2 versions', 'Firefox ESR']}))
   .pipe($.if(!options.production, $.sourcemaps.write()))
