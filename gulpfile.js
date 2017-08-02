@@ -40,6 +40,7 @@ var path = {
     fonts: 'app/assets/fonts',
     static: 'app/static',
     vendors: 'vendors',
+    modules: 'node_modules',
     config: './config.json'
   }
 };
@@ -85,7 +86,7 @@ gulp.task('styles', function() {
 gulp.task('scripts', function() {
   return gulp.src([path.base.scripts + '/requirements.js', path.base.scripts + '/application.js'])
   .pipe($.plumber({errorHandler: onError}))
-  .pipe($.include({includePaths: [path.base.vendors, path.base.scripts]}))
+  .pipe($.include({includePaths: [path.base.vendors, path.base.modules, path.base.scripts]}))
   .pipe($.if(options.production, $.concat('application.js')))
   .pipe($.if(options.production, $.uglify()))
   .pipe(gulp.dest(path.dist.scripts))
