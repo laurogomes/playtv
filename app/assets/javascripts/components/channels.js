@@ -67,10 +67,9 @@ $(function(){
           //   hlsWithCredentials: true,
           //   hlsManifestWithCredentials: true,
           // },
-          vr: {
-            contentType: 'single',
-            cardboard: 'CghSZWQgQnVsbBILUmVkIEJ1bGwgVlId7FE4PSWPwnU9KhAAAEhCAABIQgAASEIAAEhCWAA1KVwPPToICtcjPArXIzxQAGAC',
-          },
+          // vr: {
+          //   contentType: 'single',
+          // },
         },
         style: {
           width: '100%',
