@@ -82,6 +82,7 @@ $(function(){
         },
         logs: {
           bitmovin: false,
+          level: bitmovin.player.LOGLEVEL.OFF,
         },
       };
       player = bitmovin.player('modal-content');
