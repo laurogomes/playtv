@@ -122,22 +122,22 @@ http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/836.ts
 http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/835.ts
 
 #EXTINF:-1 tvg-id="SporTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV HD
-http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/367.ts
+http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/749.ts
 
 #EXTINF:-1 tvg-id="SporTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV SD
-http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/1026.ts
+http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/748.ts
 
 #EXTINF:-1 tvg-id="SporTV 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 2 HD
-http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/366.ts
+http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/751.ts
 
 #EXTINF:-1 tvg-id="SporTV 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 2 SD
-http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/1024.ts
+http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/747.ts
 
 #EXTINF:-1 tvg-id="SporTV 3 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 3 HD
-http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/365.ts
+http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/750.ts
 
 #EXTINF:-1 tvg-id="SporTV 3 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 3 SD
-http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/1023.ts
+http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/745.ts
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere Clubes HD
 http://cdn.miptv.ws:25463/live/EdmarAp/6CU3izWEYl/780.ts
