@@ -57,36 +57,15 @@ $(function(){
       var link = $(this).attr('data-link');
       var image = $(this).find('img').attr('src');
       var config = {
-        key: '55fcf315-8dc9-41fe-82a1-1f32bead1571',
-        source: {
-          hls: link,
-          poster: image,
-          // options: {
-          //   withCredentials: true,
-          //   manifestWithCredentials: true,
-          //   hlsWithCredentials: true,
-          //   hlsManifestWithCredentials: true,
-          // },
-          // vr: {
-          //   contentType: 'single',
-          // },
-        },
-        style: {
-          width: '100%',
-        },
-        playback: {
-          autoplay: true,
-        },
-        cast: {
-          enable: true,
-        },
-        logs: {
-          bitmovin: false,
-          level: bitmovin.player.LOGLEVEL.OFF,
-        },
-      };
-      player = bitmovin.player('modal-content');
-      player.setup(config);
+        source: link,
+        poster: image,
+        width: '100%',
+        height: 'auto',
+        autoPlay: true,
+        parentId: '#modal-content',
+        disableVideoTagContextMenu: true,
+      }
+      player = new Clappr.Player(config);
     });
 
     $(document).on('closed', '.modal', function() {

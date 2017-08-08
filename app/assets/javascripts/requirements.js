@@ -24,6 +24,5 @@
 //=include remodal/dist/remodal.js
 //#=include velocity/velocity.js
 //#=include svgxuse/svgxuse.js
-//#=include clappr/dist/clappr.js
+//=include clappr/dist/clappr.js
 //=include components/functions.js
-//=include bitmovin-player/bitmovinplayer.js
