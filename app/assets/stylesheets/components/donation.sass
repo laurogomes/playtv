@@ -1,0 +1,98 @@
+.donation
+  width: 100%
+  text-align: right
+  position: relative
+  margin-bottom: 10px
+  transform: translate3d(0,0,0)
+
+  +bp(lg)
+    max-width: 670px
+
+  &__close
+    z-index: 10
+    padding: 7px
+    color: $white
+    cursor: pointer
+    position: relative
+    display: inline-block
+
+    +bp(lg)
+      &:hover &-icon
+        transform: scale(1.2)
+
+    &-icon
+      width: 35px
+      height: 35px
+      display: block
+      +transition(300ms)
+
+  &__content
+    width: 100%
+    color: $white
+    padding: 15px 10px
+    text-align: center
+    position: relative
+    background-color: $color-primary
+
+  &__description
+    font-size: 18px
+    line-height: 25px
+    margin-bottom: 30px
+
+    +bp(sm)
+      font-size: 20px
+      line-height: 35px
+
+  &__title
+    font-size: 18px
+    margin-bottom: 15px
+    text-transform: uppercase
+
+    +bp(sm)
+      font-size: 20px
+
+  &-info
+    width: 100%
+    position: relative
+
+    &__item
+      width: 100%
+      color: $white
+      font-size: 18px
+      font-weight: bold
+      padding: 10px 5px
+      text-align: center
+      position: relative
+      border-radius: 20px
+      display: inline-block
+      vertical-align: middle
+      text-transform: uppercase
+      background-color: $color-primary
+      +transition(300ms)
+
+      +bp(sm)
+        width: 100%
+        font-size: 20px
+        max-width: 200px
+
+        &:hover
+          transform: scale(1.1)
+
+      &--pagseguro
+        background-color: $color-menu-03
+
+        &:hover
+          background-color: lighten($color-menu-03, 6)
+
+      &--paypal
+        background-color: $color-menu-01
+
+        &:hover
+          background-color: lighten($color-menu-01, 6)
+
+      & + &
+        margin-top: 15px
+
+        +bp(sm)
+          margin-top: 0
+          margin-left: 15px

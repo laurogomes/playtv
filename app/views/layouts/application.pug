@@ -57,9 +57,14 @@ html(lang="pt-br" itemscope itemtype="http://schema.org/WebPage")
     include /components/schema
   body
     h1.hide #{title}
+
     include /components/header
+
     main
       block content
+
+    include /components/modal
+    include /components/donation
     include /components/icons
     include /components/footer
 
