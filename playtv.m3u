@@ -276,9 +276,6 @@ http://lista.sv1.tv:25461/live/andre_bertolo@outlook.com/BGnBqJQthU/2111.ts
 #EXTINF:-1 tvg-id="MegaPix SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/megapix.png" group-title="Filmes & Series",MegaPix SD
 http://lista.sv1.tv:25461/live/andre_bertolo@outlook.com/BGnBqJQthU/1787.ts
 
-#EXTINF:-1 tvg-id="MTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Filmes & Series",MTV SD
-http://lista.sv1.tv:25461/live/andre_bertolo@outlook.com/BGnBqJQthU/1786.ts
-
 #EXTINF:-1 tvg-id="Canal Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil SD
 http://lista.sv1.tv:25461/live/andre_bertolo@outlook.com/BGnBqJQthU/1851.ts
 
@@ -482,6 +479,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="Mix TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mixtv.png" group-title="Musicas",Mix TV SD
 http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV SD
+http://lista.sv1.tv:25461/live/andre_bertolo@outlook.com/BGnBqJQthU/1786.ts
 
 #EXTINF:-1 tvg-id="Multishow SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow SD
 http://lista.sv1.tv:25461/live/andre_bertolo@outlook.com/BGnBqJQthU/1785.ts
