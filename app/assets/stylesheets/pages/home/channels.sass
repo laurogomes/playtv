@@ -1,28 +1,31 @@
 .channels
-  padding: 50px 0
+  padding: 20px 0
   overflow: hidden
-  min-height: 528px
+  min-height: calc(100vh - 220px)
   position: relative
 
-  &.loaded
-    &:before
-      display: none
+  &.loaded:before
+    display: none
 
   &:before
     content: ""
-    top: 220px
+    top: 0
     left: 0
     right: 0
     bottom: 0
     z-index: 1
     width: 50px
     height: 50px
-    margin: 0 auto
+    margin: auto
     position: absolute
     border-radius: 200px
     animation: spin 1s infinite linear
     border: 4px solid transparentize($color-primary, 0.8)
     border-top-color: $color-primary
+
+  .container
+    +bp(sm, max)
+      padding: 0
 
   &__list
     +wrap
@@ -36,14 +39,31 @@
       justify-content: center
 
   &__item
+    +col(5.6)
     width: 100%
     padding: 8px
     display: block
     cursor: pointer
     overflow: hidden
+    margin: 10px 1.6%
     position: relative
     margin-bottom: 15px
     background-color: $color-primary
+
+    +bp(sm)
+      margin: 20px 1.6%
+
+    +bp(md)
+      +col(3.6)
+
+    +bp(lg)
+      +col(2.6)
+
+    +bp(xl)
+      +col(2)
+
+    &:hover &-image.loaded img
+      opacity: 0.5
 
     &.jornalismo
       background-color: $color-menu-01
@@ -57,23 +77,6 @@
       background-color: $color-menu-05
     &.musicas
       background-color: $color-menu-06
-
-    +bp(lg)
-      &:hover &-image.loaded img
-        opacity: 0.5
-
-    +bp(sm)
-      +col(5.6)
-      margin: 20px 1.6%
-
-    +bp(md)
-      +col(3.6)
-
-    +bp(lg)
-      +col(2.6)
-
-    +bp(xl)
-      +col(2)
 
     &-image
       width: 100%
@@ -126,10 +129,15 @@
       height: 100px
       color: $white
       display: flex
-      font-size: 22px
+      font-size: 18px
       padding-top: 8px
       overflow: hidden
+      line-height: 22px
       position: relative
       text-align: center
       align-items: center
       justify-content: center
+
+      +bp(sm)
+        font-size: 22px
+        line-height: 28px

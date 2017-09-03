@@ -1,5 +1,5 @@
 $(function(){
-  var prevScroll = 170;
+  var prevScroll = 160;
   var prevDir = 'up';
   var curDir = 'down';
 
