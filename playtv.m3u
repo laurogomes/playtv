@@ -291,11 +291,11 @@ http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/734.ts
 #EXTINF:-1 tvg-id="MegaPix SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/megapix.png" group-title="Filmes & Series",MegaPix SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/640.ts
 
-#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil SD
-http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/691.ts
-
 #EXTINF:-1 tvg-id="Canal Brasil HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil HD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2885.ts
+
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil SD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/691.ts
 
 #EXTINF:-1 tvg-id="Paramount HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/paramount.png" group-title="Filmes & Series",Paramount HD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/729.ts
@@ -389,14 +389,23 @@ http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/573.ts
 
 #################################################################################
 
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/704.ts
+
 #EXTINF:-1 tvg-id="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/687.ts
 
 #EXTINF:-1 tvg-id="Boomerang SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/boomerang.png" group-title="Infantil",Boomerang SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/692.ts
 
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2882.ts
+
 #EXTINF:-1 tvg-id="Disney Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/676.ts
+
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2883.ts
 
 #EXTINF:-1 tvg-id="Discovery Kids SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/679.ts
@@ -406,6 +415,9 @@ http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/675.ts
 
 #EXTINF:-1 tvg-id="Disney XD SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_xd.png" group-title="Infantil",Disney XD SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/674.ts
+
+#EXTINF:-1 tvg-id="Gloob HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2878.ts
 
 #EXTINF:-1 tvg-id="Gloob SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/658.ts
