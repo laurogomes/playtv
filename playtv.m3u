@@ -192,17 +192,20 @@ http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/618.ts
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="A&E SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E SD
-http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/703.ts
-
 #EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E HD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2886.ts
+
+#EXTINF:-1 tvg-id="A&E SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E SD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/703.ts
 
 #EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/axn.png" group-title="Filmes & Series",AXN HD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/768.ts
 
 #EXTINF:-1 tvg-id="AXN SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/axn.png" group-title="Filmes & Series",AXN SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/699.ts
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cinemax.png" group-title="Filmes & Series",Cinemax HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2884.ts
 
 #EXTINF:-1 tvg-id="Cinemax SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cinemax.png" group-title="Filmes & Series",Cinemax SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/686.ts
