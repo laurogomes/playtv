@@ -437,6 +437,9 @@ http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/658.ts
 #EXTINF:-1 tvg-id="Nick Junior SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick_jr.png" group-title="Infantil",Nick Junior SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/632.ts
 
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2871.ts
+
 #EXTINF:-1 tvg-id="Nickelodeon SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/631.ts
 
