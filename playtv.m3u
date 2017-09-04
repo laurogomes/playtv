@@ -68,6 +68,9 @@ http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/732.ts
 #EXTINF:-1 tvg-id="NatGeo Wild SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo_wild.png" group-title="Documentarios",NatGeo Wild SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/636.ts
 
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tlc.png" group-title="Documentarios",TLC HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2867.ts
+
 #EXTINF:-1 tvg-id="TLC SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tlc.png" group-title="Documentarios",TLC SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/585.ts
 
