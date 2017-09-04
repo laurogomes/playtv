@@ -433,6 +433,9 @@ http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/697.ts
 #EXTINF:-1 tvg-id="BH News TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bhnews_tv.png" group-title="Jornalismo",BH News TV SD
 http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GloboNews HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globonews.png" group-title="Jornalismo",GloboNews HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2879.ts
+
 #EXTINF:-1 tvg-id="GloboNews SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globonews.png" group-title="Jornalismo",GloboNews SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/659.ts
 
