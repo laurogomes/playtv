@@ -567,6 +567,9 @@ http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
 #EXTINF:-1 tvg-id="Virgin TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/virgintv.png" group-title="Musicas",Virgin TV SD
 http://wow01.105.net/live/virgin1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VH1 MegaHits HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/vh1.png" group-title="Musicas",VH1 MegaHits HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2866.ts
+
 #EXTINF:-1 tvg-id="VH1 MegaHits SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/vh1.png" group-title="Musicas",VH1 MegaHits SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/575.ts
 
