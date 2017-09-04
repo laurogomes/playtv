@@ -276,6 +276,9 @@ http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2877.ts
 #EXTINF:-1 tvg-id="Lifetime SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/lifetime.png" group-title="Filmes & Series",Lifetime SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/646.ts
 
+#EXTINF:-1 tvg-id="Max HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max.png" group-title="Filmes & Series",Max HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2875.ts
+
 #EXTINF:-1 tvg-id="Max SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max.png" group-title="Filmes & Series",Max SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/644.ts
 
