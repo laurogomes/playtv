@@ -384,6 +384,9 @@ http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/714.ts
 #EXTINF:-1 tvg-id="Telecine Fun SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_fun.png" group-title="Filmes & Series",Telecine Fun SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/591.ts
 
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_cult.png" group-title="Filmes & Series",Telecine Cult HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2868.ts
+
 #EXTINF:-1 tvg-id="Telecine Cult SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_cult.png" group-title="Filmes & Series",Telecine Cult SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/592.ts
 
