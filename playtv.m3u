@@ -291,6 +291,9 @@ http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/640.ts
 #EXTINF:-1 tvg-id="Canal Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/691.ts
 
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2885.ts
+
 #EXTINF:-1 tvg-id="Paramount HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/paramount.png" group-title="Filmes & Series",Paramount HD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/729.ts
 
