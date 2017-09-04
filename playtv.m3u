@@ -528,14 +528,17 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1 tvg-id="Mix TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mixtv.png" group-title="Musicas",Mix TV SD
 http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2872.ts
+
 #EXTINF:-1 tvg-id="MTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/639.ts
 
-#EXTINF:-1 tvg-id="Multishow SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow SD
-http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/638.ts
-
 #EXTINF:-1 tvg-id="Multishow HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow HD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/733.ts
+
+#EXTINF:-1 tvg-id="Multishow SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow SD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/638.ts
 
 #EXTINF:-1 tvg-id="Muz TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/muztv.png" group-title="Musicas",Muz TV SD
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
