@@ -327,8 +327,14 @@ http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/720.ts
 #EXTINF:-1 tvg-id="Space SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/space.png" group-title="Filmes & Series",Space SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/603.ts
 
+#EXTINF:-1 tvg-id="Syfy HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/syfy.png" group-title="Filmes & Series",Syfy HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2869.ts
+
 #EXTINF:-1 tvg-id="Syfy SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/syfy.png" group-title="Filmes & Series",Syfy SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/596.ts
+
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/studio_universal.png" group-title="Filmes & Series",Studio Universal HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2870.ts
 
 #EXTINF:-1 tvg-id="Studio Universal SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/studio_universal.png" group-title="Filmes & Series",Studio Universal SD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/597.ts
