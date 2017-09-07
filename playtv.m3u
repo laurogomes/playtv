@@ -195,9 +195,6 @@ http://iptvdiamante.dyndns.tv:8000/live/Jackson1/tvOflVTZl6/205.ts
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/amc.png" group-title="Filmes & Series",AMC HD
-http://iptvdiamante.dyndns.tv:8000/live/Jackson1/tvOflVTZl6/409.ts
-
 #EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E HD
 http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/2886.ts
 
