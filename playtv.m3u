@@ -72,7 +72,7 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/848.ts
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/375.ts
 
 #EXTINF:-1 tvg-id="TLC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tlc.png" group-title="Documentarios",TLC HD
-http://144.217.79.160:8505/live/daniel/daniel/2867.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1665.ts
 
 #EXTINF:-1 tvg-id="TLC SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tlc.png" group-title="Documentarios",TLC SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/360.ts
@@ -199,7 +199,7 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/205.ts
 #################################################################################
 
 #EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E HD
-http://144.217.79.160:8505/live/daniel/daniel/2886.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1824.ts
 
 #EXTINF:-1 tvg-id="A&E SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1487.ts
@@ -277,25 +277,25 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1608.ts
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1485.ts
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/lifetime.png" group-title="Filmes & Series",Lifetime HD
-http://144.217.79.160:8505/live/daniel/daniel/2877.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1673.ts
 
 #EXTINF:-1 tvg-id="Lifetime SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/lifetime.png" group-title="Filmes & Series",Lifetime SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1725.ts
 
 #EXTINF:-1 tvg-id="Max HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max.png" group-title="Filmes & Series",Max HD
-http://144.217.79.160:8505/live/daniel/daniel/2875.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1672.ts
 
 #EXTINF:-1 tvg-id="Max SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max.png" group-title="Filmes & Series",Max SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/215.ts
 
 #EXTINF:-1 tvg-id="Max UP HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_up.png" group-title="Filmes & Series",Max UP HD
-http://144.217.79.160:8505/live/daniel/daniel/2873.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1670.ts
 
 #EXTINF:-1 tvg-id="Max UP SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_up.png" group-title="Filmes & Series",Max UP SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/213.ts
 
 #EXTINF:-1 tvg-id="Max Prime HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_prime.png" group-title="Filmes & Series",Max Prime HD
-http://144.217.79.160:8505/live/daniel/daniel/2874.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1671.ts
 
 #EXTINF:-1 tvg-id="Max Prime SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_prime.png" group-title="Filmes & Series",Max Prime SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/214.ts
@@ -310,7 +310,7 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1615.ts
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/112.ts
 
 #EXTINF:-1 tvg-id="Canal Brasil HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil HD
-http://144.217.79.160:8505/live/daniel/daniel/2885.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1683.ts
 
 #EXTINF:-1 tvg-id="Canal Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/237.ts
@@ -334,13 +334,13 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1587.ts
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/98.ts
 
 #EXTINF:-1 tvg-id="Syfy HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/syfy.png" group-title="Filmes & Series",Syfy HD
-http://144.217.79.160:8505/live/daniel/daniel/2869.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1667.ts
 
 #EXTINF:-1 tvg-id="Syfy SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/syfy.png" group-title="Filmes & Series",Syfy SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/103.ts
 
 #EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/studio_universal.png" group-title="Filmes & Series",Studio Universal HD
-http://144.217.79.160:8505/live/daniel/daniel/2870.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1668.ts
 
 #EXTINF:-1 tvg-id="Studio Universal SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/studio_universal.png" group-title="Filmes & Series",Studio Universal SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/174.ts
@@ -391,7 +391,7 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1624.ts
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/803.ts
 
 #EXTINF:-1 tvg-id="Telecine Cult HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_cult.png" group-title="Filmes & Series",Telecine Cult HD
-http://144.217.79.160:8505/live/daniel/daniel/2868.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1666.ts
 
 #EXTINF:-1 tvg-id="Telecine Cult SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_cult.png" group-title="Filmes & Series",Telecine Cult SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/808.ts
@@ -426,13 +426,13 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/377.ts
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/187.ts
 
 #EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel HD
-http://144.217.79.160:8505/live/daniel/daniel/2882.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1680.ts
 
 #EXTINF:-1 tvg-id="Disney Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1486.ts
 
 #EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids HD
-http://144.217.79.160:8505/live/daniel/daniel/2883.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1681.ts
 
 #EXTINF:-1 tvg-id="Discovery Kids SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/426.ts
@@ -444,7 +444,7 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/181.ts
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/277.ts
 
 #EXTINF:-1 tvg-id="Gloob HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob HD
-http://144.217.79.160:8505/live/daniel/daniel/2878.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1674.ts
 
 #EXTINF:-1 tvg-id="Gloob SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/378.ts
@@ -453,7 +453,7 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/378.ts
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/286.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon HD
-http://144.217.79.160:8505/live/daniel/daniel/2871.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1820.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/126.ts
@@ -487,9 +487,6 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1586.ts
 #EXTINF:-1 tvg-id="Globo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globo.png" group-title="Jornalismo",Globo SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1752.ts
 
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/rbstv.png" group-title="Jornalismo",RBS TV Porto Alegre SD
-http://144.217.79.160:8505/live/daniel/daniel/614.ts
-
 #EXTINF:-1 tvg-id="Record HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record.png" group-title="Jornalismo",Record HD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1694.ts
 
@@ -515,7 +512,7 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/373.ts
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/2422.ts
 
 #EXTINF:-1 tvg-id="Futura SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalfutura.png" group-title="Jornalismo",Futura SD
-http://144.217.79.160:8505/live/daniel/daniel/662.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/91.ts
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/viva.png" group-title="Jornalismo",Viva HD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1630.ts
@@ -547,7 +544,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV HD
-http://144.217.79.160:8505/live/daniel/daniel/2872.ts
+http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1669.ts
 
 #EXTINF:-1 tvg-id="MTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/128.ts
