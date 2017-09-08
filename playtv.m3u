@@ -526,19 +526,19 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1860.ts
 #################################################################################
 
 #EXTINF:-1 tvg-id="1HD Music HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/1hd.png" group-title="Musicas",1HD Music HD
-http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+http://bonus-tv.ru/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DJing Ibiza SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/djing.png" group-title="Musicas",DJing Ibiza SD
-http://www.djing.com/tv/04.m3u8
+http://www.djing.com/tv/live.m3u8
 
 #EXTINF:-1 tvg-id="Gospel Music Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gospelmusic_tv.png" group-title="Musicas",Gospel Music Television SD
-http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+http://85.94.1.9:8802/hls/CH_R04_DOMASHNY/variant.m3u8
 
 #EXTINF:-1 tvg-id="Heart TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/heartv.png" group-title="Musicas",Heart TV SD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Hit TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hittv.png" group-title="Musicas",Hit TV SD
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 
 #EXTINF:-1 tvg-id="MIMUSICA HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mimusica.png" group-title="Musicas",MIMUSICA HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
