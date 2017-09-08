@@ -41,6 +41,9 @@ http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/183.ts
 #EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_world.png" group-title="Documentarios",Discovery World HD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1779.ts
 
+#EXTINF:-1 tvg-id="Entertainment Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/e!.png" group-title="Documentarios",Entertainment Television SD
+http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1712.ts
+
 #EXTINF:-1 tvg-id="Fish TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fishtv.png" group-title="Documentarios",Fish TV SD
 http://iptvdiamante.dyndns.tv:8000/live/Heronmoras1/2NFMJtOz2R/1488.tst.es-live
 
