@@ -201,7 +201,7 @@ http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/618.ts
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",AMC HD
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/amc.png" group-title="Filmes & Series",AMC HD
 http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1336.ts
 
 #EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E HD
