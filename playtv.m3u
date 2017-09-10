@@ -3,79 +3,82 @@
 #################################################################################
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1861.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1324.ts
 
 #EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/94.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/711.ts
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_channel.png" group-title="Documentarios",Discovery Channel HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1611.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/516.ts
 
 #EXTINF:-1 tvg-id="Discovery Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_channel.png" group-title="Documentarios",Discovery Channel SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1497.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1055.ts
 
 #EXTINF:-1 tvg-id="Discovery Civilization SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_civilization.png" group-title="Documentarios",Discovery Civilization SD
 http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/234.ts
 
 #EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_home_health.png" group-title="Documentarios",Discovery Home & Health HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1610.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/656.ts
 
 #EXTINF:-1 tvg-id="Discovery Home & Health SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_home_health.png" group-title="Documentarios",Discovery Home & Health SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/359.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1054.ts
 
 #EXTINF:-1 tvg-id="Discovery Investigacao HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentarios",Discovery Investigacao HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1613.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/658.ts
 
 #EXTINF:-1 tvg-id="Discovery Investigacao SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentarios",Discovery Investigacao SD
 http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/393.ts
 
 #EXTINF:-1 tvg-id="Discovery Science SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_science.png" group-title="Documentarios",Discovery Science SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/233.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/736.ts
 
 #EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Documentarios",Discovery Turbo HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1612.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1059.ts
 
 #EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Documentarios",Discovery Turbo SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/183.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1060.ts
 
 #EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_world.png" group-title="Documentarios",Discovery World HD
 http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1779.ts
 
+#EXTINF:-1 tvg-id="Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/e!.png" group-title="Documentarios",Entertainment Television HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1635.ts
+
 #EXTINF:-1 tvg-id="Entertainment Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/e!.png" group-title="Documentarios",Entertainment Television SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1712.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/632.ts
 
 #EXTINF:-1 tvg-id="Fish TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fishtv.png" group-title="Documentarios",Fish TV SD
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/854.ts
 
 #EXTINF:-1 tvg-id="History HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/history.png" group-title="Documentarios",History HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1627.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/499.ts
 
 #EXTINF:-1 tvg-id="History SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/history.png" group-title="Documentarios",History SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/172.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1067.ts
 
 #EXTINF:-1 tvg-id="H2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/h2.png" group-title="Documentarios",H2 HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1598.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/470.ts
 
 #EXTINF:-1 tvg-id="H2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/h2.png" group-title="Documentarios",H2 SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/222.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/714.ts
 
 #EXTINF:-1 tvg-id="NatGeo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo.png" group-title="Documentarios",NatGeo HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1749.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/498.ts
 
 #EXTINF:-1 tvg-id="NatGeo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo.png" group-title="Documentarios",NatGeo SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/392.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1202.ts
 
 #EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo_wild.png" group-title="Documentarios",NatGeo Wild HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/848.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/712.ts
 
 #EXTINF:-1 tvg-id="NatGeo Wild SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo_wild.png" group-title="Documentarios",NatGeo Wild SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/375.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/787.ts
 
 #EXTINF:-1 tvg-id="TLC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tlc.png" group-title="Documentarios",TLC HD
-http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1665.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/644.ts
 
 #EXTINF:-1 tvg-id="TLC SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tlc.png" group-title="Documentarios",TLC SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/360.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/825.ts
 
 #################################################################################
 
@@ -200,6 +203,9 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/907.ts
 http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/205.ts
 
 #################################################################################
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",AMC HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/767.ts
 
 #EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E HD
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/745.ts
@@ -337,7 +343,7 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/479.ts
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1042.ts
 
 #EXTINF:-1 tvg-id="Syfy HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/syfy.png" group-title="Filmes & Series",Syfy HD
-http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1667.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1319.ts
 
 #EXTINF:-1 tvg-id="Syfy SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/syfy.png" group-title="Filmes & Series",Syfy SD
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/480.ts
@@ -349,7 +355,7 @@ http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1668.ts
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/720.ts
 
 #EXTINF:-1 tvg-id="TBS HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tbs.png" group-title="Filmes & Series",TBS HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1765.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1366.ts
 
 #EXTINF:-1 tvg-id="TBS SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tbs.png" group-title="Filmes & Series",TBS SD
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/683.ts
@@ -420,49 +426,49 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1072.ts
 #################################################################################
 
 #EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/4155.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/449.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/377.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/587.ts
 
 #EXTINF:-1 tvg-id="Boomerang SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/boomerang.png" group-title="Infantil",Boomerang SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/187.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/448.ts
 
 #EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel HD
-http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1680.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/494.ts
 
 #EXTINF:-1 tvg-id="Disney Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel SD
 http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1486.ts
 
 #EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids HD
-http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1681.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/455.ts
 
 #EXTINF:-1 tvg-id="Discovery Kids SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/426.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1058.ts
 
 #EXTINF:-1 tvg-id="Disney Junior SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_junior.png" group-title="Infantil",Disney Junior SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/181.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/459.ts
 
 #EXTINF:-1 tvg-id="Disney XD SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_xd.png" group-title="Infantil",Disney XD SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/277.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/460.ts
 
 #EXTINF:-1 tvg-id="Gloob HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob HD
-http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1674.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/156.ts
 
 #EXTINF:-1 tvg-id="Gloob SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/378.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/823.ts
 
 #EXTINF:-1 tvg-id="Nick Junior SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick_jr.png" group-title="Infantil",Nick Junior SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/286.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/506.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon HD
-http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1820.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1011.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/126.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/477.ts
 
 #EXTINF:-1 tvg-id="Tooncast SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tooncast.png" group-title="Infantil",Tooncast SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/127.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/702.ts
 
 #################################################################################
 
@@ -473,16 +479,16 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/523.ts
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/959.ts
 
 #EXTINF:-1 tvg-id="Band News SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band_news.png" group-title="Jornalismo",Band News SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/239.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/726.ts
 
 #EXTINF:-1 tvg-id="BH News TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bhnews_tv.png" group-title="Jornalismo",BH News TV SD
 http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GloboNews HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globonews.png" group-title="Jornalismo",GloboNews HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/4156.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/663.ts
 
 #EXTINF:-1 tvg-id="GloboNews SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globonews.png" group-title="Jornalismo",GloboNews SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/227.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1108.ts
 
 #EXTINF:-1 tvg-id="Globo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globo.png" group-title="Jornalismo",Globo HD
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/513.ts
@@ -497,7 +503,7 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/937.ts
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/679.ts
 
 #EXTINF:-1 tvg-id="Record News SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record_news.png" group-title="Jornalismo",Record News SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/290.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/734.ts
 
 #EXTINF:-1 tvg-id="RedeTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/redetv.png" group-title="Jornalismo",RedeTV HD
 http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1862.ts
@@ -518,10 +524,10 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/681.ts
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1577.ts
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/viva.png" group-title="Jornalismo",Viva HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1630.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/491.ts
 
 #EXTINF:-1 tvg-id="Viva SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/viva.png" group-title="Jornalismo",Viva SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1860.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/243.ts
 
 #################################################################################
 
@@ -547,16 +553,16 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV HD
-http://prime.iptvprimeplay.com:25461/live/RhycardoMonteiro/c6sUlSo0FC/1669.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/620.ts
 
 #EXTINF:-1 tvg-id="MTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/128.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/891.ts
 
 #EXTINF:-1 tvg-id="Multishow HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1616.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/476.ts
 
 #EXTINF:-1 tvg-id="Multishow SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/212.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/174.ts
 
 #EXTINF:-1 tvg-id="Muz TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/muztv.png" group-title="Musicas",Muz TV SD
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
@@ -574,9 +580,9 @@ http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
 http://wow01.105.net/live/virgin1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VH1 MegaHits HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/vh1.png" group-title="Musicas",VH1 MegaHits HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/4169.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/676.ts
 
 #EXTINF:-1 tvg-id="VH1 MegaHits SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/vh1.png" group-title="Musicas",VH1 MegaHits SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/794.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/735.ts
 
 #################################################################################
