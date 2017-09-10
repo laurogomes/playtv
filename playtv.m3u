@@ -200,7 +200,7 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/906.ts
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/907.ts
 
 #EXTINF:-1 tvg-id="Premiere 9 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 9 SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/205.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/908.ts
 
 #################################################################################
 
@@ -235,7 +235,7 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/972.ts
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1110.ts
 
 #EXTINF:-1 tvg-id="Fox Life HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_life.png" group-title="Filmes & Series",Fox Life HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1711.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/963.ts
 
 #EXTINF:-1 tvg-id="Fox Life SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_life.png" group-title="Filmes & Series",Fox Life SD
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/463.ts
