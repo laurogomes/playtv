@@ -45,7 +45,7 @@ http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1779.ts
 http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1712.ts
 
 #EXTINF:-1 tvg-id="Fish TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fishtv.png" group-title="Documentarios",Fish TV SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1488.tst.es-live
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/854.ts
 
 #EXTINF:-1 tvg-id="History HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/history.png" group-title="Documentarios",History HD
 http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1627.ts
@@ -79,20 +79,23 @@ http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/360.ts
 
 #################################################################################
 
+#EXTINF:-1 tvg-id="All Sports HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/allsports.png" group-title="Esportes",All Sports HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/765.ts
+
 #EXTINF:-1 tvg-id="All Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/allsports.png" group-title="Esportes",All Sports SD
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 #EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bandsports.png" group-title="Esportes",Band Sports HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1600.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/515.ts
 
 #EXTINF:-1 tvg-id="Band Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bandsports.png" group-title="Esportes",Band Sports SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/370.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/717.ts
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1601.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/451.ts
 
 #EXTINF:-1 tvg-id="Combate SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/110.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/114.ts
 
 #EXTINF:-1 tvg-id="EI Maxx HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx.png" group-title="Esportes",EI Maxx HD
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/660.ts
@@ -122,7 +125,7 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/698.ts
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/521.ts
 
 #EXTINF:-1 tvg-id="ESPN SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn.png" group-title="Esportes",ESPN SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/232.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/870.ts
 
 #EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports.png" group-title="Esportes",Fox Sports HD
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/464.ts
@@ -155,43 +158,43 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/511.ts
 http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/214.ts
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere Clubes HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/204.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/509.ts
 
 #EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere Clubes SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1930.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/1090.ts
 
 #EXTINF:-1 tvg-id="Premiere 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 2 HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1717.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/510.ts
 
 #EXTINF:-1 tvg-id="Premiere 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 2 SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/259.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/903.ts
 
 #EXTINF:-1 tvg-id="Premiere 3 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 3 HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1721.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/543.ts
 
 #EXTINF:-1 tvg-id="Premiere 3 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 3 SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/269.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/902.ts
 
 #EXTINF:-1 tvg-id="Premiere 4 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 4 HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1722.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/544.ts
 
 #EXTINF:-1 tvg-id="Premiere 4 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 4 SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/270.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/648.ts
 
 #EXTINF:-1 tvg-id="Premiere 5 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 5 HD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/1723.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/545.ts
 
 #EXTINF:-1 tvg-id="Premiere 5 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 5 SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/271.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/904.ts
 
 #EXTINF:-1 tvg-id="Premiere 6 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 6 SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/208.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/905.ts
 
 #EXTINF:-1 tvg-id="Premiere 7 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 7 SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/207.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/906.ts
 
 #EXTINF:-1 tvg-id="Premiere 8 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 8 SD
-http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/206.ts
+http://painel.tvdigitalsbl.net:8081/live/netiptv926/926/907.ts
 
 #EXTINF:-1 tvg-id="Premiere 9 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 9 SD
 http://iptvdiamante.dyndns.tv:8000/live/Cliente30/byg5XcP9F0/205.ts
