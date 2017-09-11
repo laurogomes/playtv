@@ -207,7 +207,7 @@ http://149.56.98.189:25461/live/joseantonio/qLqRAIs8Y5/47.ts
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="AMC SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/amc.png" group-title="Filmes & Series",AMC SD
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/amc.png" group-title="Filmes & Series",AMC HD
 http://149.56.98.189:25461/live/joseantonio/qLqRAIs8Y5/235.ts
 
 #EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E HD
