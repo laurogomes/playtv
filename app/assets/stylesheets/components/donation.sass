@@ -63,6 +63,7 @@
       padding: 10px 5px
       text-align: center
       position: relative
+      margin-bottom: 15px
       border-radius: 20px
       display: inline-block
       vertical-align: middle
@@ -74,6 +75,9 @@
         width: 100%
         font-size: 20px
         max-width: 200px
+
+      +bp(md)
+        margin-bottom: 0
 
         &:hover
           transform: scale(1.1)
@@ -90,9 +94,12 @@
         &:hover
           background-color: lighten($color-menu-01, 6)
 
-      & + &
-        margin-top: 15px
+      &--bitcoin
+        background-color: $color-menu-05
 
+        &:hover
+          background-color: lighten($color-menu-05, 6)
+
+      & + &
         +bp(sm)
-          margin-top: 0
           margin-left: 15px
