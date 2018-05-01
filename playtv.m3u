@@ -6,7 +6,7 @@
 http://iptvbrasil1.ddns.net:8080/live/play/play/175.ts
 
 #EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/51.ts
+http://142.44.137.22:8080/live/j/j/1060.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_channel.png" group-title="Documentarios",Discovery Channel HD
 http://iptvbrasil1.ddns.net:8080/live/play/play/170.ts
