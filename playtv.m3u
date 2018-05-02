@@ -500,7 +500,7 @@ http://iptvbrasil1.ddns.net:8080/live/play/play/68.ts
 http://g5.club-server.co:25461/live/dxvwyctf/3ik7q0w1/10651.m3u8
 
 #EXTINF:-1 tvg-id="Globo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globo.png" group-title="Jornalismo",Globo SD
-http://g5.club-server.co:25461/live/dxvwyctf/3ik7q0w1/10652.ts
+http://g5.club-server.co:25461/live/dxvwyctf/3ik7q0w1/10873.ts
 
 #EXTINF:-1 tvg-id="Record HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record.png" group-title="Jornalismo",Record HD
 http://iptvbrasil1.ddns.net:8080/live/play/play/422.ts
