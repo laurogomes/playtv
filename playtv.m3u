@@ -21,7 +21,7 @@ http://iptvbrasil1.ddns.net:8080/live/play/play/50.ts
 http://iptvbrasil1.ddns.net:8080/live/play/play/233.ts
 
 #EXTINF:-1 tvg-id="Discovery Home & Health SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_home_health.png" group-title="Documentarios",Discovery Home & Health SD
-http://iptvbrasil1.ddns.net:8080/live/play/play/48.ts
+http://142.44.137.22:8080/live/j/j/1063.ts
 
 #EXTINF:-1 tvg-id="Discovery Investigacao HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentarios",Discovery Investigacao HD
 http://iptvbrasil1.ddns.net:8080/live/play/play/174.ts
