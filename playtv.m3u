@@ -116,7 +116,7 @@ http://iptvbrasil1.ddns.net:8080/live/play/play/204.ts
 http://iptvbrasil1.ddns.net:8080/live/play/play/66.ts
 
 #EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_brasil.png" group-title="Esportes",ESPN Brasil HD
-http://iptvbrasil1.ddns.net:8080/live/play/play/203.ts
+http://painel1.diamanteiptv.top:25461/live/8488662555/WH658zxoyM/14247.ts
 
 #EXTINF:-1 tvg-id="ESPN Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_brasil.png" group-title="Esportes",ESPN Brasil SD
 http://iptvbrasil1.ddns.net:8080/live/play/play/61.ts
